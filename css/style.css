@@ -1,13 +1,51 @@
 @import url("https://fonts.googleapis.com/css?family=Cabin:400,500,600,700");
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
 
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #1e1e1e;
+		color: #ffffff;
+	}
+
+	.header,.header nav a {
+		background-color: #1e1e1e;
+		color: #ffffff;
+	}
+
+	.header {
+		border-bottom: 1px solid #ffffff;
+
+	}
+
+	section#content,
+	section.aboutme h2,
+	section.aboutme p,
+	section.contact h2,
+		section#content section.contact p {
+		background-color: #1e1e1e!important;
+		color: #ffffff!important;
+	}
+
+	/* Footer dark mode styles */
+	.footer,
+	.footer nav a {
+		background-color: #1e1e1e;
+		color: #ffffff;
+	}
+
+	.footer {
+		border-top: 1px solid #ffffff;
+	}
+}
+
 * {
 	outline: none
 }
 
-html {
+/* html {
 	background-color: #ffffff;
-}
+} */
 
 body {
 	font-size: 16px;
@@ -48,7 +86,7 @@ header nav {
 }
 
 header nav a {
-	color: #000;
+	color: #1e1e1e;
 	font-weight: 700;
 	font-size: 1em;
 	text-transform: uppercase;
@@ -169,14 +207,14 @@ section#content section.portfolio .project .info {
 section#content section.portfolio .project .info h3 {
 	margin: 1em auto;
 	margin-bottom: 0.3em;
-	color: #000;
+	color: #1e1e1e;
 	font-size: 1.75em;
 	text-align: center
 }
 
 section#content section.portfolio .project .info h4 {
 	margin-top: 0em;
-	color: #000;
+	color: #1e1e1e;
 	/* font-size: 1.75em; */
 	text-align: center
 }
@@ -252,7 +290,7 @@ section#content section.contact {
 }
 
 section#content section.contact h2 {
-	color: #000;
+	color: #1e1e1e;
 	font-size: 2.5em;
 	text-align: center;
 	font-weight: 700;
@@ -267,7 +305,7 @@ section#content section.contact h3 {
 }
 
 section#content section.contact p {
-	color: #000;
+	color: #1e1e1e;
 	line-heigh: 1.5;
 	text-align: justify;
 	max-width: 768px;
@@ -314,7 +352,7 @@ section#content section.aboutme {
 }
 
 section#content section.aboutme h2 {
-	color: #000;
+	color: #1e1e1e;
 	font-size: 2.5em;
 	text-align: center;
 	font-weight: 700;
@@ -329,7 +367,7 @@ section#content section.aboutme h3 {
 }
 
 section#content section.aboutme p {
-	color: #000;
+	color: #1e1e1e;
 	line-heigh: 1.5;
 	text-align: justify;
 	max-width: 768px;
@@ -442,7 +480,7 @@ footer nav {
 }
 
 footer nav a {
-	color: #000;
+	color: #1e1e1e;
 	font-weight: 700;
 	font-size: 1.5em;
 	/* text-transform: uppercase; */
