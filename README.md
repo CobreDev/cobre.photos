@@ -1,14 +1,8 @@
-# Att
+# cobre.photos
 
-Att - Website Template Photography
+My photography portfolio
 
-## Stack
+## Contact
 
-- HTML5 (Jade)
-- CSS3 (Stylus)
-- Gulp.js
-
-## Links
-
-- [Demo](http://cristhgunners.github.io/Att/)
-- [Behance](https://www.behance.net/gallery/36048085/Att-Website-Template-Photography)
+- [Email](mailto:cooper@cobre.photos)
+- [Instagram](https://instagram.com/cobre.photos)
