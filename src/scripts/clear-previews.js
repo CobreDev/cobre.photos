@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const galleriesPath = path.join(__dirname, "..", "content", "events"); // adjust if you want portfolio too
+const galleriesPath = path.join(__dirname, "..", "content"); // adjust if you want portfolio too
 const previewSuffix = "_preview";
 
 function isPreview(file) {
