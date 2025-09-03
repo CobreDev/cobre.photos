@@ -10,3 +10,6 @@ src/content/**/*.webp
 
 # dotenv environment variables file
 .env
+
+# macOS System files
+.DS_Store
