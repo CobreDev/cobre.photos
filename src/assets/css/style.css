@@ -13,7 +13,6 @@
 }
 
 body {
-    min-height: 100svh;
     font-family: 'JetBrains Mono', monospace;
 }
 
@@ -217,18 +216,73 @@ strong {
 }
 
 a:link {
-    text-decoration-color: var(--blue);
+    text-decoration-color: #E93323;
 }
 
 a {
     @apply text-zinc-300;
     text-decoration-color: transparent;
+    text-decoration-color: #E93323;
     text-decoration: underline;
     transition: all 0.2s ease;
 }
 
-a:visited {
-    text-decoration-color: var(--purple);
+
+.wave {
+    animation-name: wave-animation;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% {
+        transform: rotate(0.0deg)
+    }
+
+    10% {
+        transform: rotate(14.0deg)
+    }
+
+    20% {
+        transform: rotate(-8.0deg)
+    }
+
+    30% {
+        transform: rotate(14.0deg)
+    }
+
+    40% {
+        transform: rotate(-4.0deg)
+    }
+
+    50% {
+        transform: rotate(10.0deg)
+    }
+
+    60% {
+        transform: rotate(0.0deg)
+    }
+
+    /* Reset for the last half to pause */
+    100% {
+        transform: rotate(0.0deg)
+    }
+}
+
+/* Remove or comment out this rule */
+/* a:visited {
+    text-decoration-color: var(--red);
+} */
+
+/* Modify the underline classes to handle both normal and visited states */
+.underline-instagram, .underline-instagram:visited {
+    text-decoration-color: #ff0069 !important;
+}
+
+.underline-email, .underline-email:visited {
+    text-decoration-color: var(--blue) !important;
 }
 
 a:hover {

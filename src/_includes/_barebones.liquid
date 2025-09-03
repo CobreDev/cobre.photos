@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="min-h-screen">
   {% include "_header.liquid" %}
-  <body class="bg-zinc-900 text-zinc-200 underline-offset-4 flex flex-col justify-between !font-normal">
+  <body class="bg-zinc-900 text-zinc-200 underline-offset-4 flex flex-col min-h-screen justify-between !font-normal">
     {{ content }}
     <footer class="flex-shrink-0 flex flex-row border-t text-center border-zinc-700 align-middle justify-center">
-      <p class="p-2 pr-4">Read more
-        <a class="arrow-external" href="https://pbossev.pages.dev/">About Me</a>
-      </p>
+      <!-- <p class="p-2">Hosted with
+        <a href="https://pages.cloudflare.com/" class="arrow-external">Cloudflare</a>
+      </p> -->
+      <p class="p-2 border-zinc-700">© 2025 cobre.photos</p>
       <p class="p-2 pl-4 border-l border-zinc-700">
-        <a href="https://github.com/pbossev/pbsv.photo/" class="arrow-external">Source</a>
+        <a href="https://github.com/cobredev/cobre.photos/" class="arrow-external">Source</a>
       </p>
     </footer>
     {{ scripts }}

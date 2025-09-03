@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>{{ title }}</title>
-  <meta name="description" content="{{ gallery.description | default: "pbsv.photo's photography site." }}">
+  <meta name="description" content="{{ gallery.description | default: "cobre's photography site." }}">
 
   <link
     rel="preload"
@@ -12,10 +12,10 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}">
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
 
-  <meta property="og:site_name" content="pbsv.photo">
+  <meta property="og:site_name" content="cobre.photos">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ title }}">
-  <meta property="og:description" content="{{ gallery.description | default: "pbsv.photo's photography site." }}">
+  <meta property="og:description" content="{{ gallery.description | default: "cobre's photography site." }}">
   {% if gallery and gallery.preview %}
     <meta property="og:image" content="{{ gallery.preview | replace: '.jpg', '_preview.webp' | url }}">
   {% endif %}
@@ -23,7 +23,7 @@
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ title }}">
-  <meta name="twitter:description" content="{{ gallery.description | default: "pbsv.photo's photography site." }}">
+  <meta name="twitter:description" content="{{ gallery.description | default: "cobre's photography site." }}">
   {% if gallery and gallery.preview %}
     <meta name="twitter:image" content="{{ gallery.preview | replace: '.jpg', '_preview.webp' | url }}">
   {% endif %}
