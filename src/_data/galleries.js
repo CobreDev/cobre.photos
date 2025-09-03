@@ -1,4 +1,3 @@
-
 const fs = require("fs");
 const path = require("path");
 const { imageSize } = require("image-size");
@@ -95,14 +94,15 @@ function getGalleries() {
 
 // Group events by year-month
 function groupEventsByMonth(galleries) {
-    const events = galleries.filter(g => g.type === "events" && g.date);
+    const events = galleries.filter(g => g.type === "events");
     const grouped = {};
 
     events.forEach(event => {
-        const date = new Date(event.date);
+        // Use start date if available, otherwise use single date
+        const eventDate = event.date.start ? new Date(event.date.start) : new Date(event.date);
 
         // Use middle of the month to avoid timezone rollover issues
-        const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-15`;
+        const key = `${eventDate.getFullYear()}-${String(eventDate.getMonth() + 1).padStart(2, "0")}-15`;
 
         if (!grouped[key]) grouped[key] = [];
         grouped[key].push(event);

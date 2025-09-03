@@ -11,14 +11,19 @@ eleventyComputed:
 
 <div class="sm:px-20 md:px-32 lg:mx-auto lg:max-w-4xl xl:max-w-6xl mb-4">
   {% if gallery.type == "events" %}
-    <a class="text-zinc-500 text-sm no-underline" href="/events">← Events 📜</a>
+    <a class="text-zinc-500 text-sm no-underline" href="/events">← Events</a>
   {% else %}
     {% include "_back.liquid" %}
   {% endif %}
   <h1 class="mt-2">{{ gallery.title }}</h1>
   {% if gallery.type == "events" %}
     <small>
-      {{ gallery.date | date: "%d.%m.%Y" }} - {{ gallery.location }}
+      {% if gallery.date.end %}
+        {{ gallery.date.start | date: "%B %d" }} - {{ gallery.date.end | date: "%d, %Y" }}
+      {% else %}
+        {{ gallery.date.start | date: "%B %d, %Y" }}
+      {% endif %}
+      - {{ gallery.location }}
     </small>
   {% endif %}
 </div>

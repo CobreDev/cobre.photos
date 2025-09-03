@@ -16,20 +16,31 @@ title: Events 📜
   {% for group in galleries.eventsByMonth %}
     <div class="space-y-2">
       <h2>
-        {{ group.month | date: "%B %Y" }}
+        {% assign monthDate = group.items[0].date.start | default: group.items[0].date %}
+        {{ monthDate | date: "%B %Y" }}
       </h2>
 
       <div>
         {% for event in group.items %}
           <div class="flex flex-row justify-between">
-            <div class=" flex flex-row gap-x-4">
-              <p class="text-zinc-400">{{ event.date | date: "%d.%m.%Y" }}</p>
+            <div class="flex flex-row gap-x-4">
               <a href="{{ event.path }}">
                 <span class="hidden xl:inline">{{ event.title }}</span>
                 <span class="inline xl:hidden">{{ event.short_title }}</span>
               </a>
+              <p class="text-zinc-400 lg:block hidden">
+                {% if event.date.start %}
+                  {% assign start_date = event.date.start | utcDate: "MMMM dd" %}
+                  {% assign end_date = event.date.end | utcDate: "dd" %}
+                  {% assign year = event.date.start | utcDate: ", yyyy" %}
+                  {{ start_date }} — {{ end_date }}{{ year }}
+                {% else %}
+                  {{ event.date | utcDate: "MMMM dd, yyyy" }}
+
+                {% endif %}
+              </p>
             </div>
-            <p class="text-zinc-400 lg:block hidden">{{ event.location }}</p>
+            <p class="text-zinc-400">{{ event.location }}</p>
           </div>
         {% endfor %}
       </div>
