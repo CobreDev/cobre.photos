@@ -1,59 +1,76 @@
 {
     "portfolio": [
         {
-            "title": "Sweat & Spirit",
-            "description": "A collection of my best sports photos.",
-            "preview": "DSC_3197.jpg",
+            "title": "Airshow Highlights",
+            "description": "Just a few of my best airshow photos.",
+            "preview": "DSC_2048.jpg",
+            "folder": "airshow"
+        },
+        {
+            "title": "Sports Highlights",
+            "description": "Some of my favorite sports photos.",
+            "preview": "DSC_7781.jpg",
             "folder": "sports"
         },
         {
-            "title": "Feather & Fur",
-            "preview": "DSC_1920.jpg",
-            "folder": "wildlife"
+            "title": "Nature Highlights",
+            "description": "A handful of beautiful nature photos.",
+            "preview": "DSC_1292.jpg",
+            "folder": "nature"
         },
         {
-            "title": "Speed & Power",
-            "folder": "planes"
-        },
-        {
-            "title": "Face & Feeling",
-            "folder": "portraits"
+            "title": "Architecture Highlights",
+            "description": "A collection of neat architecture photos.",
+            "preview": "DSC_0204.jpg",
+            "folder": "architecture"
         }
     ],
     "events": [
         {
-            "title": "Bloomington North v Columbus East Boys Soccer Match",
-            "short_title": "B.N v C.E Boys Soccer Match",
-            "description": "Photos from the Bloomington North v Columbus East Boys Soccer Match.",
+            "title": "✈️ AirVenture Oshkosh 2025",
+            "short_title": "Oshkosh 2025",
+            "description": "Photos from EAA's AirVenture Oshkosh 2025 in Oshkosh, Wisconsin.",
             "preview": "DSC_6243.jpg",
-            "folder": "08_26_2025_boys_soccer",
-            "date": "2025-08-26",
-            "location": "BHSN Football Field"
+            "folder": "07.21.2025-airventure-oshkosh",
+            "date": {
+                "start": "2025-07-21",
+                "end": "2025-07-27"
+            },
+            "location": "Oshkosh, WI",
+            "visible": true
         },
         {
-            "title": "Bloomington North v Brownstown Central Volleyball Match",
-            "short_title": "B.N v B.C Volleyball Match",
-            "folder": "08_21_2025_volleyball",
-            "date": "2025-08-21",
-            "location": "BHSN Gymnasium",
-            "visible": false
+            "title": "✈️ Wings over Wayne Airshow 2025",
+            "short_title": "Wings over Wayne 2025",
+            "folder": "05.03.2025-seymour-johson",
+            "date": {
+                "start": "2025-05-03",
+                "end": "2025-05-04"
+            },
+            "location": "Seymour Johnson AFB, NC",
+            "visible": true
         },
         {
-            "title": "Bloomington North v Columbus East Girls Soccer Match",
-            "short_title": "B.N v C.E Girls Soccer Match",
-            "folder": "08_20_2025_girls_soccer",
-            "date": "2025-08-20",
-            "location": "BHSN Football Field",
-            "visible": false
+            "title": "✈️ Music City STOL 2024",
+            "short_title": "Music City STOL 2024",
+            "folder": "10.11.2024-music-city-stol",
+            "date": {
+                "start": "2024-10-11",
+                "end": "2024-10-12"
+            },
+            "location": "Nashville, TN",
+            "visible": true
         },
         {
-            "title": "Bloomington North v Zionsville Boys Soccer Scrimmage",
-            "short_title": "B.N v Z.H Boys Soccer Scrimmage",
-            "description": "Photos from the Bloomington North v Zionsville Boys Soccer Scrimmage.",
-            "preview": "DSC_3259.jpg",
-            "folder": "08_14_2025_boys_soccer",
-            "date": "2025-08-14",
-            "location": "BHSN Football Field"
+            "title": "✈️ NAS Oceana Airshow 2024",
+            "short_title": "NAS Oceana Airshow 2024",
+            "folder": "09.21.2024-nas-oceana",
+            "date": {
+                "start": "2024-09-21",
+                "end": "2024-09-22"
+            },
+            "location": "NAS Oceana, VA",
+            "visible": true
         }
     ]
 }
