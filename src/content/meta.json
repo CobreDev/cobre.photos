@@ -1,10 +1,10 @@
 {
     "portfolio": [
         {
-            "title": "Airshow Highlights",
-            "description": "Just a few of my best airshow photos.",
+            "title": "Aviation Highlights",
+            "description": "Just a few of my best airshow and aviation photos.",
             "preview": "DSC_2048.jpg",
-            "folder": "airshow"
+            "folder": "aviation"
         },
         {
             "title": "Sports Highlights",
