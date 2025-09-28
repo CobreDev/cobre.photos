@@ -27,6 +27,19 @@
     ],
     "events": [
         {
+            "title": "✈️ NAS Oceana Airshow 2025",
+            "short_title": "NAS Oceana 2025",
+            "description": "Shots from NAS Oceana's 2025 Airshow in Virginia Beach, VA.",
+            "preview": "cobre.photos-Z63_9202.jpg",
+            "folder": "09.18.2025-nas-oceana",
+            "date": {
+                "start": "2025-09-18",
+                "end": "2025-09-21"
+            },
+            "location": "NAS Oceana, VA",
+            "visible": true
+        },
+        {
             "title": "✈️ Mach Loop Visit 2025",
             "short_title": "Mach Loop",
             "description": "Photos from my visit to Wales' Mach Loop in August 2025.",
