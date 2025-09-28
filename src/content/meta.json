@@ -27,6 +27,19 @@
     ],
     "events": [
         {
+            "title": "✈️ Mach Loop Visit 2025",
+            "short_title": "Mach Loop",
+            "description": "Photos from my visit to Wales' Mach Loop in August 2025.",
+            "preview": "cobre.photos-0811-1014-4.jpg",
+            "folder": "08.11.2024-mach-loop",
+            "date": {
+                "start": "2025-08-11",
+                "end": "2025-08-12"
+            },
+            "location": "Oshkosh, WI",
+            "visible": true
+        },
+        {
             "title": "✈️ AirVenture Oshkosh 2025",
             "short_title": "Oshkosh 2025",
             "description": "Photos from EAA's AirVenture Oshkosh 2025 in Oshkosh, Wisconsin.",
