@@ -114,11 +114,32 @@ function groupEventsByMonth(galleries) {
         .sort((a, b) => (a.month < b.month ? 1 : -1));
 }
 
+// Group events by year
+function groupEventsByYear(galleries) {
+    const events = galleries.filter(g => g.type === "events");
+    const grouped = {};
+
+    events.forEach(event => {
+        const eventDate = event.date && event.date.start ? new Date(event.date.start) : new Date(event.date);
+        const key = String(eventDate.getFullYear());
+
+        if (!grouped[key]) grouped[key] = [];
+        grouped[key].push(event);
+    });
+
+    // Convert to array format sorted by year descending
+    return Object.entries(grouped)
+        .map(([year, items]) => ({ year, items }))
+        .sort((a, b) => (a.year < b.year ? 1 : -1));
+}
+
 const galleries = getGalleries();
 console.log(galleries)
 const eventsByMonth = groupEventsByMonth(galleries);
+const eventsByYear = groupEventsByYear(galleries);
 
 module.exports = {
     galleries,
-    eventsByMonth
+    eventsByMonth,
+    eventsByYear
 };
