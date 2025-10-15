@@ -27,6 +27,19 @@
     ],
     "events": [
         {
+            "title": "🎈 Albuquerque International Balloon Fiesta 2025",
+            "short_title": "Balloon Fiesta",
+            "description": "Albuquerque International Balloon Fiesta 2025 in Albuquerque, New Mexico.",
+            "preview": "abq-balloon-fiesta-00092-20251006.jpg",
+            "folder": "2025-10-04-abq-balloon-fiesta",
+            "date": {
+                "start": "2025-10-04",
+                "end": "2025-10-10"
+            },
+            "location": "Albuquerque, NM",
+            "visible": true
+        },
+        {
             "title": "✈️ NAS Oceana Airshow 2025",
             "short_title": "NAS Oceana",
             "description": "Shots from NAS Oceana's 2025 Airshow in Virginia Beach, VA.",
