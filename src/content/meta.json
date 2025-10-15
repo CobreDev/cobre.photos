@@ -28,7 +28,7 @@
     "events": [
         {
             "title": "✈️ NAS Oceana Airshow 2025",
-            "short_title": "NAS Oceana 2025",
+            "short_title": "NAS Oceana",
             "description": "Shots from NAS Oceana's 2025 Airshow in Virginia Beach, VA.",
             "preview": "cobre.photos-00140-20250921.jpg",
             "folder": "09.18.2025-nas-oceana",
@@ -54,7 +54,7 @@
         },
         {
             "title": "✈️ AirVenture Oshkosh 2025",
-            "short_title": "Oshkosh 2025",
+            "short_title": "AirVenture Oshkosh",
             "description": "Photos from EAA's AirVenture Oshkosh 2025 in Oshkosh, Wisconsin.",
             "preview": "DSC_6243.jpg",
             "folder": "07.21.2025-airventure-oshkosh",
@@ -67,7 +67,7 @@
         },
         {
             "title": "✈️ Wings over Wayne Airshow 2025",
-            "short_title": "Wings over Wayne 2025",
+            "short_title": "Wings over Wayne",
             "folder": "05.03.2025-seymour-johnson",
             "date": {
                 "start": "2025-05-03",
@@ -78,7 +78,7 @@
         },
         {
             "title": "✈️ Music City STOL 2024",
-            "short_title": "Music City STOL 2024",
+            "short_title": "Music City STOL",
             "folder": "10.11.2024-music-city-stol",
             "date": {
                 "start": "2024-10-11",
@@ -89,7 +89,7 @@
         },
         {
             "title": "✈️ NAS Oceana Airshow 2024",
-            "short_title": "NAS Oceana Airshow 2024",
+            "short_title": "NAS Oceana Airshow",
             "folder": "09.21.2024-nas-oceana",
             "date": {
                 "start": "2024-09-21",
