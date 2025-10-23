@@ -27,6 +27,19 @@
     ],
     "events": [
         {
+            "title": "✈️ Wings Over North Georgia 2025",
+            "short_title": "Wings Over North Georgia",
+            "description": "Rome, Georgia's Wings Over North Georgia Airshow 2025.",
+            "preview": "wong-00021-20251017.jpg",
+            "folder": "2025-10-17-wings-over-north-georgia",
+            "date": {
+                "start": "2025-10-17",
+                "end": "2025-10-19"
+            },
+            "location": "Rome, GA",
+            "visible": true
+        },
+        {
             "title": "🎈 Albuquerque International Balloon Fiesta 2025",
             "short_title": "Balloon Fiesta",
             "description": "Albuquerque International Balloon Fiesta 2025 in Albuquerque, New Mexico.",
