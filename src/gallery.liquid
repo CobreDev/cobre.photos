@@ -111,8 +111,11 @@ eleventyComputed:
       <img
         src="{{ img.url | replace: '.jpg', '_preview.webp' }}"
         alt="{{ gallery.title }}"
+        width="{{ img.width }}"
+        height="{{ img.height }}"
+        style="aspect-ratio: {{ img.width }}/{{ img.height }};"
         loading="lazy"
-        class="w-full h-auto cursor-pointer hover:brightness-75 transition-filter duration-200"
+        class="w-full h-auto cursor-pointer hover:brightness-75 transition-filter duration-200 bg-zinc-900/40"
         onclick="openLightbox('{{ img.url }}', {{ image_index }})" />
       {% assign image_index = image_index | plus: 1 %}
     {% endfor %}
