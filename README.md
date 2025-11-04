@@ -37,7 +37,7 @@ R2_UPLOADS_DIR=uploads
 > [!TIP]
 > Use `--dry-run` to check what would be uploaded before actually syncing, and `--type/--folder` to narrow down a run:
 > ```
-> npm run sync:r2 --dry-run --type events --folder 2025-10-17-wings-over-north-georgia
+> npm run sync:r2 -- --dry-run --type events --folder 2025-10-17-wings-over-north-georgia
 > ```
 
 If you keep your upload staging area elsewhere, set `R2_UPLOADS_DIR` in `.env` (e.g. `R2_UPLOADS_DIR=./cobre.dev/uploads`) so the sync script picks it up automatically.
