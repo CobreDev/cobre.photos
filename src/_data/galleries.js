@@ -80,6 +80,10 @@ function getImageMeta(filePath, publicPath) {
 }
 
 function buildGalleryEntry(type, entry, images, extra = {}) {
+    if (!images || images.length === 0) {
+        return null;
+    }
+
     const infoByFilename = new Map(images.map(image => [image.filename, image]));
 
     let previewFilename = entry.preview;
@@ -123,9 +127,10 @@ function buildGalleriesFromManifest(meta) {
                 type: image.type || path.extname(image.filename).slice(1)
             }));
 
-            galleries.push(
-                buildGalleryEntry("portfolio", entry, images)
-            );
+            const gallery = buildGalleryEntry("portfolio", entry, images);
+            if (gallery) {
+                galleries.push(gallery);
+            }
         });
 
     meta.events
@@ -140,13 +145,15 @@ function buildGalleriesFromManifest(meta) {
                 type: image.type || path.extname(image.filename).slice(1)
             }));
 
-            galleries.push(
-                buildGalleryEntry("events", entry, images, {
-                    short_title: entry.short_title || entry.title,
-                    location: entry.location || "",
-                    date: entry.date || null
-                })
-            );
+            const gallery = buildGalleryEntry("events", entry, images, {
+                short_title: entry.short_title || entry.title,
+                location: entry.location || "",
+                date: entry.date || null
+            });
+
+            if (gallery) {
+                galleries.push(gallery);
+            }
         });
 
     return galleries;
@@ -167,9 +174,10 @@ function buildGalleriesFromFilesystem(meta) {
                     )
                 );
 
-                galleries.push(
-                    buildGalleryEntry("portfolio", entry, images)
-                );
+                const gallery = buildGalleryEntry("portfolio", entry, images);
+                if (gallery) {
+                    galleries.push(gallery);
+                }
             }
         });
 
@@ -185,13 +193,15 @@ function buildGalleriesFromFilesystem(meta) {
                     )
                 );
 
-                galleries.push(
-                    buildGalleryEntry("events", entry, images, {
-                        short_title: entry.short_title || entry.title,
-                        location: entry.location || "",
-                        date: entry.date || null
-                    })
-                );
+                const gallery = buildGalleryEntry("events", entry, images, {
+                    short_title: entry.short_title || entry.title,
+                    location: entry.location || "",
+                    date: entry.date || null
+                });
+
+                if (gallery) {
+                    galleries.push(gallery);
+                }
             }
         });
 
