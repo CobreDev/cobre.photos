@@ -7,10 +7,11 @@
     "start": "npm-run-all -p dev:*",
     "dev:11ty": "eleventy --serve",
     "dev:css": "tailwindcss -i src/assets/css/style.css -o _site/assets/css/style.css --watch",
-    "build": "run-s build:previews build:11ty build:css",
+    "build": "run-s build:11ty build:css",
     "build:11ty": "eleventy",
-    "build:previews": "node src/scripts/generate-previews.js",
-    "build:css": "tailwindcss -i src/assets/css/style.css -o _site/assets/css/style.css --minify"
+    "build:css": "tailwindcss -i src/assets/css/style.css -o _site/assets/css/style.css --minify",
+    "sync:r2": "node src/scripts/sync-r2.js",
+    "build:manifest": "node src/scripts/build-gallery-manifest.js"
   },
   "keywords": [],
   "author": "",
@@ -21,6 +22,7 @@
     "npm-run-all": "^4.1.5"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.609.0",
     "luxon": "^3.7.1",
     "sharp": "^0.34.3",
     "tailwindcss": "^3.4.17"

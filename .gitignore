@@ -13,3 +13,6 @@ src/content/**/*.webp
 
 # macOS System files
 .DS_Store
+
+# upload directory
+uploads/
