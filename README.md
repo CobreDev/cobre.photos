@@ -27,20 +27,20 @@ R2_UPLOADS_DIR=uploads
 
 ## R2 Workflow
 
-1. Stage new images inside `uploads/<type>/<folder>/` where `<type>` is `events` or `portfolio` and `<folder>` matches the entry in `src/content/meta.json`. You only need to include the files you want to add—previous images stay in R2.
+1. Stage new images inside `R2_UPLOADS_DIR/<type>/<folder>/` where `<type>` is `events` or `portfolio` and `<folder>` matches the entry in `src/content/meta.json`. You only need to include the files you want to add—previous images stay in R2.
 2. Run `npm run sync:r2` (or `node src/scripts/sync-r2.js`). The script will:
    - Upload originals that are missing in R2.
    - Generate and upload previews when they are absent.
    - Update `src/content/gallery-manifest.json` with width, height, and file info so the site builds without requiring local originals.
 3. Commit the updated manifest and metadata changes. The images themselves stay out of git.
 
-Use `--dry-run` to check what would be uploaded before actually syncing, and `--type/--folder` to narrow down a run:
+> [!TIP]
+> Use `--dry-run` to check what would be uploaded before actually syncing, and `--type/--folder` to narrow down a run:
+> ```
+> npm run sync:r2 --dry-run --type events --folder 2025-10-17-wings-over-north-georgia
+> ```
 
-```
-npm run sync:r2 -- --type events --folder 2025-10-17-wings-over-north-georgia
-```
-
-If you keep your upload staging area elsewhere, set `R2_UPLOADS_DIR` in `.env` (e.g. `R2_UPLOADS_DIR=../cobre.dev/uploads`) so the sync script picks it up automatically.
+If you keep your upload staging area elsewhere, set `R2_UPLOADS_DIR` in `.env` (e.g. `R2_UPLOADS_DIR=./cobre.dev/uploads`) so the sync script picks it up automatically.
 
 If you still have the full local catalog, you can backfill the manifest once with:
 
