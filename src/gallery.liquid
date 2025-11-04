@@ -285,7 +285,9 @@ eleventyComputed:
   let lastTranslateX = 0;
   let lastTranslateY = 0;
   const DRAG_THRESHOLD = 5; // pixels to move before starting drag
-
+  const PREFETCH_RANGE = 3;
+  const preloadedFullImages = new Set();
+  
   function openLightbox(src, index = 0) {
     const lb = document.getElementById("lightbox");
     if (!lb) return;
@@ -303,7 +305,8 @@ eleventyComputed:
     loadImage(src);
     updateNavigationButtons();
     updateZoomPercentage();
-    
+    preloadNeighbors(index);
+
     // Add keyboard listeners
     document.addEventListener("keydown", handleKeyPress);
   }
@@ -324,6 +327,7 @@ eleventyComputed:
     img.style.opacity = "0.5";
     img.src = src;
     downloadBtn.href = src;
+    preloadedFullImages.add(src);
   }
 
   function closeLightbox() {
@@ -360,6 +364,7 @@ eleventyComputed:
     loadImage(galleryImages[currentImageIndex]);
     updateNavigationButtons();
     updateZoomPercentage();
+    preloadNeighbors(currentImageIndex);
   }
 
   function updateNavigationButtons() {
@@ -372,6 +377,23 @@ eleventyComputed:
     } else {
       prevBtn.style.display = "none";
       nextBtn.style.display = "none";
+    }
+  }
+  
+  function preloadImage(url) {
+    if (!url || preloadedFullImages.has(url)) return;
+    const preload = new Image();
+    preload.decoding = "async";
+    preload.loading = "eager";
+    preload.src = url;
+    preloadedFullImages.add(url);
+  }
+  function preloadNeighbors(centerIndex) {
+    if (!Array.isArray(galleryImages) || galleryImages.length === 0) return;
+    for (let offset = -PREFETCH_RANGE; offset <= PREFETCH_RANGE; offset += 1) {
+      const targetIndex = (centerIndex + offset + galleryImages.length) % galleryImages.length;
+      if (targetIndex === centerIndex) continue;
+      preloadImage(galleryImages[targetIndex]);
     }
   }
 
