@@ -25,6 +25,9 @@ R2_UPLOADS_DIR=uploads
 
 `PUBLIC_ASSET_BASE_URL` is used at build time so Eleventy points to the R2 bucket instead of local files. When omitted the build falls back to `/content/...`, which only works if images still live in the repository.
 
+If you're deploying to Cloudflare Pages like I am, you'll also need to add all of those variables except for `R2_UPLOADS_DIR` to your Cloudflare Pages settings
+![Cloudflare Pages Secrets](https://raw.githubusercontent.com/CobreDev/cobre.photos/refs/heads/main/src/assets/images/cf-pages-secrets.png)
+
 ## R2 Workflow
 
 1. Stage new images inside `R2_UPLOADS_DIR/<type>/<folder>/` where `<type>` is `events` or `portfolio` and `<folder>` matches the entry in `src/content/meta.json`. You only need to include the files you want to add—previous images stay in R2.
