@@ -56,7 +56,20 @@
     ],
     "events": [
         {
-            "title": "🏒 MHL Wildfire vs FCRHL Rec Nets ",
+            "title": "🌌 November Aurora Borealis",
+            "short_title": "🌌 Aurora Borealis",
+            "description": "Photos of the Aurora Borealis taken in early November 2025 from Shenandoah National Park, Virginia.",
+            "preview": "aurora-20251111-007.jpg",
+            "folder": "2025.11.11-aurora-borealis",
+            "date": {
+                "start": "2025-11-11",
+                "end": "2025-11-12"
+            },
+            "location": "Elkton, VA",
+            "visible": true
+        },
+        {
+            "title": "🏒 MHL Wildfire vs FCRHL Rec Nets",
             "short_title": "🏒 MHL vs FCRHL",
             "description": "Warrenton Fall Classic hockey game between the MHL Wildfire and FCRHL Rec Nets on November 2, 2025.",
             "preview": "MHLvsFCRHL-00007-20251108.jpg",
