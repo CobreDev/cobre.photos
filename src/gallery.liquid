@@ -19,11 +19,11 @@ eleventyComputed:
   {% if gallery.type == "events" %}
     <small>
       {% if gallery.date.end %}
-        {{ gallery.date.start | date: "%B %d" }} - {{ gallery.date.end | date: "%d, %Y" }}
+        {{ gallery.date.start | date: "%B %d" }}-{{ gallery.date.end | date: "%d, %Y" }}
       {% else %}
         {{ gallery.date.start | date: "%B %d, %Y" }}
       {% endif %}
-      - {{ gallery.location }}
+      | {{ gallery.location }}
     </small>
 {% endif %}
 </div>

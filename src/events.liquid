@@ -30,7 +30,7 @@ title: Events 📜
                   {% assign start_date = event.date.start | utcDate: "MMMM dd" %}
                   {% assign end_date = event.date.end | utcDate: "dd" %}
                   {% assign year = event.date.start | utcDate: ", yyyy" %}
-                  {{ start_date }} — {{ end_date }}{{ year }}
+                  {{ start_date }}—{{ end_date }}{{ year }}
                 {% else %}
                   {{ event.date | utcDate: "MMMM dd, yyyy" }}
 
