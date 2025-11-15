@@ -1,0 +1,7930 @@
+{
+  "portfolio": {
+    "architecture": [
+      {
+        "filename": "dc-20240821-001.webp",
+        "width": 5666,
+        "height": 3777,
+        "type": "webp"
+      },
+      {
+        "filename": "dc-20240821-002.webp",
+        "width": 3527,
+        "height": 5291,
+        "type": "webp"
+      },
+      {
+        "filename": "dc-20240821-003.webp",
+        "width": 3911,
+        "height": 5867,
+        "type": "webp"
+      },
+      {
+        "filename": "dc-20240821-004.webp",
+        "width": 3484,
+        "height": 5226,
+        "type": "webp"
+      },
+      {
+        "filename": "dc-20240821-005.webp",
+        "width": 5485,
+        "height": 3657,
+        "type": "webp"
+      },
+      {
+        "filename": "dc-20240821-006.webp",
+        "width": 3773,
+        "height": 2515,
+        "type": "webp"
+      },
+      {
+        "filename": "dc-20240821-007.webp",
+        "width": 5909,
+        "height": 3939,
+        "type": "webp"
+      },
+      {
+        "filename": "dc-20240821-008.webp",
+        "width": 3190,
+        "height": 4785,
+        "type": "webp"
+      },
+      {
+        "filename": "london-20250806-001.webp",
+        "width": 2836,
+        "height": 4254,
+        "type": "webp"
+      },
+      {
+        "filename": "london-20250806-002.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "london-20250807-003.webp",
+        "width": 3161,
+        "height": 4742,
+        "type": "webp"
+      },
+      {
+        "filename": "london-20250808-004.webp",
+        "width": 5992,
+        "height": 3995,
+        "type": "webp"
+      }
+    ],
+    "aviation": [
+      {
+        "filename": "airventure-oshkosh-20240722-001.webp",
+        "width": 5851,
+        "height": 3901,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20240723-002.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20240724-003.webp",
+        "width": 2834,
+        "height": 4251,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20240725-004.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20240726-005.webp",
+        "width": 4784,
+        "height": 3189,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20240727-006.webp",
+        "width": 5217,
+        "height": 3478,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20240727-007.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20240727-008.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-001.webp",
+        "width": 5636,
+        "height": 3757,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-002.webp",
+        "width": 4987,
+        "height": 3325,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-003.webp",
+        "width": 4538,
+        "height": 3025,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-004.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-005.webp",
+        "width": 5095,
+        "height": 3397,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-006.webp",
+        "width": 2227,
+        "height": 3341,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-007.webp",
+        "width": 5080,
+        "height": 3387,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-008.webp",
+        "width": 4645,
+        "height": 3097,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-001.webp",
+        "width": 5522,
+        "height": 3681,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-002.webp",
+        "width": 5030,
+        "height": 3353,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-001.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-002.webp",
+        "width": 3657,
+        "height": 5485,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-003.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-004.webp",
+        "width": 5666,
+        "height": 3777,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-001.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-002.webp",
+        "width": 4767,
+        "height": 3178,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-003.webp",
+        "width": 4906,
+        "height": 3271,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-004.webp",
+        "width": 5294,
+        "height": 3529,
+        "type": "webp"
+      }
+    ],
+    "nature": [
+      {
+        "filename": "aurora-20251111-001.webp",
+        "width": 5272,
+        "height": 3515,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-002.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-003.webp",
+        "width": 3789,
+        "height": 5683,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-004.webp",
+        "width": 5674,
+        "height": 3783,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-005.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "seneca-rocks-20240901-001.webp",
+        "width": 5740,
+        "height": 3827,
+        "type": "webp"
+      },
+      {
+        "filename": "seneca-rocks-20240901-002.webp",
+        "width": 3569,
+        "height": 5353,
+        "type": "webp"
+      },
+      {
+        "filename": "seneca-rocks-20240901-003.webp",
+        "width": 5327,
+        "height": 3545,
+        "type": "webp"
+      },
+      {
+        "filename": "seneca-rocks-20240901-004.webp",
+        "width": 4188,
+        "height": 2792,
+        "type": "webp"
+      },
+      {
+        "filename": "seneca-rocks-20240901-005.webp",
+        "width": 5017,
+        "height": 3345,
+        "type": "webp"
+      }
+    ],
+    "sports": [
+      {
+        "filename": "capitals-20250204-001.webp",
+        "width": 5980,
+        "height": 3987,
+        "type": "webp"
+      },
+      {
+        "filename": "capitals-20250204-002.webp",
+        "width": 5773,
+        "height": 3849,
+        "type": "webp"
+      },
+      {
+        "filename": "capitals-20250204-003.webp",
+        "width": 5623,
+        "height": 3749,
+        "type": "webp"
+      },
+      {
+        "filename": "capitals-20250204-004.webp",
+        "width": 5607,
+        "height": 3738,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-001.webp",
+        "width": 3871,
+        "height": 5807,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-002.webp",
+        "width": 5564,
+        "height": 3709,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-003.webp",
+        "width": 3847,
+        "height": 5771,
+        "type": "webp"
+      },
+      {
+        "filename": "nationals-20240821-001.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nationals-20240821-002.webp",
+        "width": 5703,
+        "height": 3802,
+        "type": "webp"
+      },
+      {
+        "filename": "northridge-disc-golf-20240817-001.webp",
+        "width": 4279,
+        "height": 2853,
+        "type": "webp"
+      },
+      {
+        "filename": "northridge-disc-golf-20240817-002.webp",
+        "width": 4918,
+        "height": 3279,
+        "type": "webp"
+      }
+    ]
+  },
+  "events": {
+    "2024.09.21-nas-oceana": [
+      {
+        "filename": "nas-oceana-20240919-001.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-002.webp",
+        "width": 5481,
+        "height": 3654,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-003.webp",
+        "width": 3640,
+        "height": 5460,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-004.webp",
+        "width": 5288,
+        "height": 3525,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-005.webp",
+        "width": 3657,
+        "height": 5485,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-006.webp",
+        "width": 5367,
+        "height": 3578,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-007.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-008.webp",
+        "width": 3783,
+        "height": 5674,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-009.webp",
+        "width": 3538,
+        "height": 5307,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-010.webp",
+        "width": 5553,
+        "height": 3702,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-011.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-012.webp",
+        "width": 5185,
+        "height": 3457,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-013.webp",
+        "width": 3625,
+        "height": 5437,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-014.webp",
+        "width": 5738,
+        "height": 3825,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-015.webp",
+        "width": 5627,
+        "height": 3751,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-016.webp",
+        "width": 4985,
+        "height": 3323,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-017.webp",
+        "width": 3333,
+        "height": 4999,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-018.webp",
+        "width": 5358,
+        "height": 3572,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-019.webp",
+        "width": 5379,
+        "height": 3586,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-020.webp",
+        "width": 5166,
+        "height": 3444,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-021.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240919-022.webp",
+        "width": 5911,
+        "height": 3941,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-023.webp",
+        "width": 5340,
+        "height": 3560,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-024.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-025.webp",
+        "width": 5710,
+        "height": 3807,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-026.webp",
+        "width": 5480,
+        "height": 3653,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-027.webp",
+        "width": 5758,
+        "height": 3839,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-028.webp",
+        "width": 5165,
+        "height": 3443,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-029.webp",
+        "width": 4473,
+        "height": 2982,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-030.webp",
+        "width": 5138,
+        "height": 3425,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-031.webp",
+        "width": 5059,
+        "height": 3373,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-032.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-033.webp",
+        "width": 4967,
+        "height": 3311,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-034.webp",
+        "width": 5232,
+        "height": 3488,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-035.webp",
+        "width": 5622,
+        "height": 3748,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-036.webp",
+        "width": 5158,
+        "height": 3439,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-037.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-038.webp",
+        "width": 5423,
+        "height": 3615,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-039.webp",
+        "width": 4968,
+        "height": 3312,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-040.webp",
+        "width": 5376,
+        "height": 3584,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-041.webp",
+        "width": 3589,
+        "height": 5384,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-042.webp",
+        "width": 5806,
+        "height": 3871,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-043.webp",
+        "width": 5016,
+        "height": 3344,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-044.webp",
+        "width": 5848,
+        "height": 3899,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-045.webp",
+        "width": 5377,
+        "height": 3585,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-046.webp",
+        "width": 5633,
+        "height": 3755,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-047.webp",
+        "width": 5410,
+        "height": 3607,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-048.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-049.webp",
+        "width": 5872,
+        "height": 3915,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-050.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-051.webp",
+        "width": 5911,
+        "height": 3941,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-052.webp",
+        "width": 5102,
+        "height": 3401,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-053.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-054.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-055.webp",
+        "width": 3846,
+        "height": 5769,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-056.webp",
+        "width": 5834,
+        "height": 3889,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-057.webp",
+        "width": 5454,
+        "height": 3636,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-058.webp",
+        "width": 5009,
+        "height": 3339,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-059.webp",
+        "width": 3245,
+        "height": 4867,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-060.webp",
+        "width": 5539,
+        "height": 3693,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-061.webp",
+        "width": 5808,
+        "height": 3872,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240920-062.webp",
+        "width": 5336,
+        "height": 3557,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-063.webp",
+        "width": 5924,
+        "height": 3949,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-064.webp",
+        "width": 5666,
+        "height": 3777,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-065.webp",
+        "width": 5872,
+        "height": 3915,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-066.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-067.webp",
+        "width": 4708,
+        "height": 3139,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-068.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-069.webp",
+        "width": 5385,
+        "height": 3590,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-070.webp",
+        "width": 4536,
+        "height": 3024,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-071.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-072.webp",
+        "width": 5599,
+        "height": 3733,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-073.webp",
+        "width": 5264,
+        "height": 3509,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-074.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-075.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-076.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-077.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-078.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-079.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-080.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20240921-081.webp",
+        "width": 5396,
+        "height": 3597,
+        "type": "webp"
+      }
+    ],
+    "2024.10.11-music-city-stol": [
+      {
+        "filename": "music-city-stol-20241010-001.webp",
+        "width": 5685,
+        "height": 3790,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241010-002.webp",
+        "width": 5007,
+        "height": 3338,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241010-003.webp",
+        "width": 3602,
+        "height": 5403,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-004.webp",
+        "width": 5219,
+        "height": 3479,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-005.webp",
+        "width": 5660,
+        "height": 3773,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-006.webp",
+        "width": 5265,
+        "height": 3510,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-007.webp",
+        "width": 5028,
+        "height": 3352,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-008.webp",
+        "width": 5190,
+        "height": 3460,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-009.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-010.webp",
+        "width": 3481,
+        "height": 5221,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-011.webp",
+        "width": 3332,
+        "height": 4998,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-012.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-013.webp",
+        "width": 5370,
+        "height": 3580,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-014.webp",
+        "width": 5341,
+        "height": 3561,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-015.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-016.webp",
+        "width": 5050,
+        "height": 3367,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-017.webp",
+        "width": 5565,
+        "height": 3710,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-018.webp",
+        "width": 5673,
+        "height": 3782,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-019.webp",
+        "width": 5658,
+        "height": 3772,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-020.webp",
+        "width": 5226,
+        "height": 3484,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-021.webp",
+        "width": 3591,
+        "height": 5387,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-022.webp",
+        "width": 3374,
+        "height": 5061,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-023.webp",
+        "width": 5795,
+        "height": 3863,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-024.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-025.webp",
+        "width": 4372,
+        "height": 2915,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-026.webp",
+        "width": 3772,
+        "height": 5658,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-027.webp",
+        "width": 3449,
+        "height": 5174,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-028.webp",
+        "width": 3743,
+        "height": 5614,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-029.webp",
+        "width": 3597,
+        "height": 5396,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-030.webp",
+        "width": 4695,
+        "height": 3130,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-031.webp",
+        "width": 5798,
+        "height": 3865,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-032.webp",
+        "width": 3531,
+        "height": 5297,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-033.webp",
+        "width": 3760,
+        "height": 5640,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-034.webp",
+        "width": 5897,
+        "height": 3931,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-035.webp",
+        "width": 4885,
+        "height": 3257,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-036.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-037.webp",
+        "width": 3758,
+        "height": 5637,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241011-038.webp",
+        "width": 5808,
+        "height": 3872,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-039.webp",
+        "width": 3699,
+        "height": 5548,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-040.webp",
+        "width": 3813,
+        "height": 5720,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-041.webp",
+        "width": 3682,
+        "height": 5523,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-042.webp",
+        "width": 3763,
+        "height": 5644,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-043.webp",
+        "width": 5539,
+        "height": 3693,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-044.webp",
+        "width": 5690,
+        "height": 3793,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-045.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-046.webp",
+        "width": 3281,
+        "height": 4921,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-047.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-048.webp",
+        "width": 5103,
+        "height": 3402,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-049.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-050.webp",
+        "width": 3927,
+        "height": 5891,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-051.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-052.webp",
+        "width": 4878,
+        "height": 3252,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-053.webp",
+        "width": 5507,
+        "height": 3671,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-054.webp",
+        "width": 5858,
+        "height": 3905,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-055.webp",
+        "width": 5290,
+        "height": 3527,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-056.webp",
+        "width": 3873,
+        "height": 5810,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-057.webp",
+        "width": 3485,
+        "height": 5227,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-058.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-059.webp",
+        "width": 5825,
+        "height": 3883,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-060.webp",
+        "width": 5295,
+        "height": 3530,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-061.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-062.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "music-city-stol-20241012-063.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      }
+    ],
+    "2025.05.03-seymour-johnson": [
+      {
+        "filename": "seymour-johnson-20250502-001.webp",
+        "width": 5662,
+        "height": 3775,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-002.webp",
+        "width": 5238,
+        "height": 3492,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-003.webp",
+        "width": 5883,
+        "height": 3922,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-004.webp",
+        "width": 5554,
+        "height": 3703,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-005.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-006.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-007.webp",
+        "width": 3885,
+        "height": 5827,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-008.webp",
+        "width": 5613,
+        "height": 3742,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250502-009.webp",
+        "width": 4747,
+        "height": 3165,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-010.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-011.webp",
+        "width": 5327,
+        "height": 3551,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-012.webp",
+        "width": 5403,
+        "height": 3602,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-013.webp",
+        "width": 5382,
+        "height": 3588,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-014.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-015.webp",
+        "width": 4629,
+        "height": 3086,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-016.webp",
+        "width": 5550,
+        "height": 3700,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-017.webp",
+        "width": 4935,
+        "height": 3290,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-018.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-019.webp",
+        "width": 4767,
+        "height": 3178,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-020.webp",
+        "width": 2667,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-021.webp",
+        "width": 5363,
+        "height": 3575,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-022.webp",
+        "width": 5394,
+        "height": 3596,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-023.webp",
+        "width": 4576,
+        "height": 3051,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-024.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-025.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-026.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-027.webp",
+        "width": 5558,
+        "height": 3705,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-028.webp",
+        "width": 5347,
+        "height": 3565,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-029.webp",
+        "width": 4015,
+        "height": 2677,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-030.webp",
+        "width": 4906,
+        "height": 3271,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-031.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-032.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250503-033.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-034.webp",
+        "width": 4286,
+        "height": 2857,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-035.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-036.webp",
+        "width": 4872,
+        "height": 3248,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-037.webp",
+        "width": 4543,
+        "height": 3029,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-038.webp",
+        "width": 5294,
+        "height": 3529,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-039.webp",
+        "width": 5256,
+        "height": 3504,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-040.webp",
+        "width": 5680,
+        "height": 3787,
+        "type": "webp"
+      },
+      {
+        "filename": "seymour-johnson-20250504-041.webp",
+        "width": 5282,
+        "height": 3521,
+        "type": "webp"
+      }
+    ],
+    "2025.07.21-airventure-oshkosh": [
+      {
+        "filename": "airventure-oshkosh-20250718-001.webp",
+        "width": 3510,
+        "height": 5265,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-002.webp",
+        "width": 3243,
+        "height": 4865,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-003.webp",
+        "width": 5133,
+        "height": 3422,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-004.webp",
+        "width": 3484,
+        "height": 2323,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-005.webp",
+        "width": 5607,
+        "height": 3738,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-006.webp",
+        "width": 5372,
+        "height": 3581,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-007.webp",
+        "width": 4333,
+        "height": 2889,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-008.webp",
+        "width": 3865,
+        "height": 5797,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250718-009.webp",
+        "width": 5181,
+        "height": 3454,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-010.webp",
+        "width": 4775,
+        "height": 3183,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-011.webp",
+        "width": 5562,
+        "height": 3708,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-012.webp",
+        "width": 3951,
+        "height": 5927,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-013.webp",
+        "width": 5730,
+        "height": 3820,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-014.webp",
+        "width": 5521,
+        "height": 3681,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-015.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-016.webp",
+        "width": 3763,
+        "height": 5645,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-017.webp",
+        "width": 5165,
+        "height": 3443,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-018.webp",
+        "width": 5243,
+        "height": 3495,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-019.webp",
+        "width": 5065,
+        "height": 3377,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-020.webp",
+        "width": 3473,
+        "height": 5209,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-021.webp",
+        "width": 5016,
+        "height": 3344,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-022.webp",
+        "width": 5225,
+        "height": 3483,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-023.webp",
+        "width": 5563,
+        "height": 3709,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250719-024.webp",
+        "width": 3639,
+        "height": 5459,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-025.webp",
+        "width": 5346,
+        "height": 3564,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-026.webp",
+        "width": 5166,
+        "height": 3444,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-027.webp",
+        "width": 5690,
+        "height": 3793,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-028.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-029.webp",
+        "width": 5408,
+        "height": 3605,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-030.webp",
+        "width": 3366,
+        "height": 5049,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-031.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-032.webp",
+        "width": 5380,
+        "height": 3587,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-033.webp",
+        "width": 5090,
+        "height": 3393,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-034.webp",
+        "width": 5464,
+        "height": 3643,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-035.webp",
+        "width": 5173,
+        "height": 3449,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-036.webp",
+        "width": 5260,
+        "height": 3507,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-037.webp",
+        "width": 3353,
+        "height": 5030,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-038.webp",
+        "width": 5993,
+        "height": 3995,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-039.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-040.webp",
+        "width": 5040,
+        "height": 3360,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-041.webp",
+        "width": 5061,
+        "height": 3374,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-042.webp",
+        "width": 5466,
+        "height": 3644,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-043.webp",
+        "width": 5607,
+        "height": 3738,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-044.webp",
+        "width": 3475,
+        "height": 5213,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-045.webp",
+        "width": 5182,
+        "height": 3455,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-046.webp",
+        "width": 3976,
+        "height": 5964,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-047.webp",
+        "width": 5966,
+        "height": 3977,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-048.webp",
+        "width": 5527,
+        "height": 3685,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-049.webp",
+        "width": 3983,
+        "height": 5974,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-050.webp",
+        "width": 3987,
+        "height": 5981,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-051.webp",
+        "width": 5937,
+        "height": 3958,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250720-052.webp",
+        "width": 3542,
+        "height": 5313,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-053.webp",
+        "width": 5608,
+        "height": 3739,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-054.webp",
+        "width": 3636,
+        "height": 5454,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-055.webp",
+        "width": 5636,
+        "height": 3757,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-056.webp",
+        "width": 3480,
+        "height": 5220,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-057.webp",
+        "width": 5786,
+        "height": 3857,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-058.webp",
+        "width": 5565,
+        "height": 3710,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-059.webp",
+        "width": 5603,
+        "height": 3735,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-060.webp",
+        "width": 4824,
+        "height": 3216,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-061.webp",
+        "width": 4472,
+        "height": 2981,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-062.webp",
+        "width": 3058,
+        "height": 4587,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-063.webp",
+        "width": 5704,
+        "height": 3803,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-064.webp",
+        "width": 4987,
+        "height": 3325,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-065.webp",
+        "width": 5338,
+        "height": 3559,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-066.webp",
+        "width": 4538,
+        "height": 3025,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-067.webp",
+        "width": 4274,
+        "height": 2849,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-068.webp",
+        "width": 3531,
+        "height": 5296,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-069.webp",
+        "width": 5237,
+        "height": 3491,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-070.webp",
+        "width": 5354,
+        "height": 3569,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-071.webp",
+        "width": 5393,
+        "height": 3595,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-072.webp",
+        "width": 5229,
+        "height": 3486,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-073.webp",
+        "width": 4809,
+        "height": 3206,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-074.webp",
+        "width": 5529,
+        "height": 3686,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-075.webp",
+        "width": 5731,
+        "height": 3821,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-076.webp",
+        "width": 5541,
+        "height": 3694,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-077.webp",
+        "width": 5734,
+        "height": 3823,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-078.webp",
+        "width": 5794,
+        "height": 3863,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250721-079.webp",
+        "width": 5462,
+        "height": 3641,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-080.webp",
+        "width": 3422,
+        "height": 5133,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-081.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-082.webp",
+        "width": 3189,
+        "height": 4784,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-083.webp",
+        "width": 3151,
+        "height": 4726,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-084.webp",
+        "width": 4817,
+        "height": 3211,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-085.webp",
+        "width": 5225,
+        "height": 3483,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-086.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-087.webp",
+        "width": 5362,
+        "height": 3575,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-088.webp",
+        "width": 5047,
+        "height": 3365,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-089.webp",
+        "width": 4224,
+        "height": 2816,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-090.webp",
+        "width": 5437,
+        "height": 3625,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-091.webp",
+        "width": 4961,
+        "height": 3307,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-092.webp",
+        "width": 5973,
+        "height": 3982,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-093.webp",
+        "width": 5357,
+        "height": 3571,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-094.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-095.webp",
+        "width": 5037,
+        "height": 3358,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-096.webp",
+        "width": 5845,
+        "height": 3897,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-097.webp",
+        "width": 5089,
+        "height": 3393,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-098.webp",
+        "width": 5263,
+        "height": 3509,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-099.webp",
+        "width": 5135,
+        "height": 3423,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-100.webp",
+        "width": 3711,
+        "height": 5566,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-101.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-102.webp",
+        "width": 3735,
+        "height": 5602,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-103.webp",
+        "width": 4438,
+        "height": 2959,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-104.webp",
+        "width": 4864,
+        "height": 3243,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-105.webp",
+        "width": 4738,
+        "height": 3159,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-106.webp",
+        "width": 3878,
+        "height": 5817,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-107.webp",
+        "width": 5784,
+        "height": 3856,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-108.webp",
+        "width": 4770,
+        "height": 3180,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-109.webp",
+        "width": 3192,
+        "height": 4788,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-110.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-111.webp",
+        "width": 3757,
+        "height": 5635,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-112.webp",
+        "width": 4964,
+        "height": 3309,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-113.webp",
+        "width": 3783,
+        "height": 5674,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250722-114.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-115.webp",
+        "width": 4595,
+        "height": 3063,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-116.webp",
+        "width": 2688,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-117.webp",
+        "width": 4890,
+        "height": 3260,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-118.webp",
+        "width": 4911,
+        "height": 3274,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-119.webp",
+        "width": 4837,
+        "height": 3225,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-120.webp",
+        "width": 4920,
+        "height": 3280,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-121.webp",
+        "width": 5093,
+        "height": 3395,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-122.webp",
+        "width": 4612,
+        "height": 3075,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-123.webp",
+        "width": 2688,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-124.webp",
+        "width": 5443,
+        "height": 3629,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-125.webp",
+        "width": 4650,
+        "height": 3100,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-126.webp",
+        "width": 4905,
+        "height": 3270,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-127.webp",
+        "width": 5007,
+        "height": 3338,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-128.webp",
+        "width": 5157,
+        "height": 3438,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-129.webp",
+        "width": 5051,
+        "height": 3367,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-130.webp",
+        "width": 4906,
+        "height": 3271,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-131.webp",
+        "width": 4870,
+        "height": 3247,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-132.webp",
+        "width": 5030,
+        "height": 3353,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-133.webp",
+        "width": 4822,
+        "height": 3215,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-134.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-135.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-136.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-137.webp",
+        "width": 3146,
+        "height": 4719,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-138.webp",
+        "width": 5477,
+        "height": 3651,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250723-139.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-140.webp",
+        "width": 4623,
+        "height": 3082,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-141.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-142.webp",
+        "width": 5414,
+        "height": 3609,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-143.webp",
+        "width": 5179,
+        "height": 3453,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-144.webp",
+        "width": 4305,
+        "height": 2870,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-145.webp",
+        "width": 4498,
+        "height": 2999,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-146.webp",
+        "width": 4000,
+        "height": 2667,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-147.webp",
+        "width": 5168,
+        "height": 3445,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-148.webp",
+        "width": 2688,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-149.webp",
+        "width": 4368,
+        "height": 2912,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-150.webp",
+        "width": 4157,
+        "height": 2771,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-151.webp",
+        "width": 3548,
+        "height": 2365,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-152.webp",
+        "width": 4497,
+        "height": 2998,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-153.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-154.webp",
+        "width": 3887,
+        "height": 5830,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-155.webp",
+        "width": 3240,
+        "height": 4860,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-156.webp",
+        "width": 4825,
+        "height": 3217,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-157.webp",
+        "width": 5061,
+        "height": 3374,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-158.webp",
+        "width": 2688,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-159.webp",
+        "width": 5057,
+        "height": 3371,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-160.webp",
+        "width": 4652,
+        "height": 3101,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-161.webp",
+        "width": 5010,
+        "height": 3340,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-162.webp",
+        "width": 5358,
+        "height": 3572,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250724-163.webp",
+        "width": 4857,
+        "height": 3238,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-164.webp",
+        "width": 4734,
+        "height": 3156,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-165.webp",
+        "width": 5776,
+        "height": 3851,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-166.webp",
+        "width": 3456,
+        "height": 5184,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-167.webp",
+        "width": 3611,
+        "height": 5416,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-168.webp",
+        "width": 4371,
+        "height": 2914,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-169.webp",
+        "width": 3471,
+        "height": 5206,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-170.webp",
+        "width": 3757,
+        "height": 5635,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-171.webp",
+        "width": 5167,
+        "height": 3445,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-172.webp",
+        "width": 5455,
+        "height": 3637,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-173.webp",
+        "width": 3722,
+        "height": 5583,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-174.webp",
+        "width": 5856,
+        "height": 3904,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-175.webp",
+        "width": 4939,
+        "height": 3293,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-176.webp",
+        "width": 3509,
+        "height": 5263,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-177.webp",
+        "width": 3412,
+        "height": 5118,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-178.webp",
+        "width": 3800,
+        "height": 5700,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-179.webp",
+        "width": 3813,
+        "height": 5719,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-180.webp",
+        "width": 3517,
+        "height": 5275,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-181.webp",
+        "width": 3671,
+        "height": 5506,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-182.webp",
+        "width": 3756,
+        "height": 5634,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-183.webp",
+        "width": 3773,
+        "height": 5660,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-184.webp",
+        "width": 3382,
+        "height": 5073,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-185.webp",
+        "width": 3990,
+        "height": 5985,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-186.webp",
+        "width": 5237,
+        "height": 3491,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250725-187.webp",
+        "width": 4880,
+        "height": 3253,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-188.webp",
+        "width": 5726,
+        "height": 3817,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-189.webp",
+        "width": 5917,
+        "height": 3945,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-190.webp",
+        "width": 4545,
+        "height": 3030,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-191.webp",
+        "width": 4908,
+        "height": 3272,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-192.webp",
+        "width": 5135,
+        "height": 3423,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-193.webp",
+        "width": 4981,
+        "height": 3321,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-194.webp",
+        "width": 4962,
+        "height": 3308,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-195.webp",
+        "width": 4536,
+        "height": 3024,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-196.webp",
+        "width": 4660,
+        "height": 3107,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-197.webp",
+        "width": 4756,
+        "height": 3171,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-198.webp",
+        "width": 4570,
+        "height": 3047,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-199.webp",
+        "width": 4529,
+        "height": 3019,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-200.webp",
+        "width": 5696,
+        "height": 3797,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-201.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-202.webp",
+        "width": 4528,
+        "height": 3019,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-203.webp",
+        "width": 3980,
+        "height": 2653,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-204.webp",
+        "width": 4739,
+        "height": 3159,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-205.webp",
+        "width": 4446,
+        "height": 2964,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-206.webp",
+        "width": 4565,
+        "height": 3043,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-207.webp",
+        "width": 4721,
+        "height": 3147,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-208.webp",
+        "width": 5083,
+        "height": 3389,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-209.webp",
+        "width": 5265,
+        "height": 3510,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-210.webp",
+        "width": 2688,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-211.webp",
+        "width": 4996,
+        "height": 3331,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-212.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-213.webp",
+        "width": 4720,
+        "height": 3147,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-214.webp",
+        "width": 4625,
+        "height": 3083,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-215.webp",
+        "width": 4797,
+        "height": 3198,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-216.webp",
+        "width": 3644,
+        "height": 5466,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-217.webp",
+        "width": 4806,
+        "height": 3204,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-218.webp",
+        "width": 4000,
+        "height": 6000,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-219.webp",
+        "width": 3720,
+        "height": 5580,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-220.webp",
+        "width": 4074,
+        "height": 2716,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-221.webp",
+        "width": 4674,
+        "height": 3116,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-222.webp",
+        "width": 5095,
+        "height": 3397,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-223.webp",
+        "width": 5090,
+        "height": 3393,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-224.webp",
+        "width": 4400,
+        "height": 2933,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-225.webp",
+        "width": 4942,
+        "height": 3295,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-226.webp",
+        "width": 4849,
+        "height": 3233,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-227.webp",
+        "width": 4259,
+        "height": 2839,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-228.webp",
+        "width": 4630,
+        "height": 3087,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-229.webp",
+        "width": 4222,
+        "height": 2815,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-230.webp",
+        "width": 4376,
+        "height": 2917,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-231.webp",
+        "width": 4355,
+        "height": 2903,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-232.webp",
+        "width": 4907,
+        "height": 3271,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-233.webp",
+        "width": 4445,
+        "height": 2963,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-234.webp",
+        "width": 2227,
+        "height": 3341,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-235.webp",
+        "width": 4582,
+        "height": 3055,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-236.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-237.webp",
+        "width": 4612,
+        "height": 3075,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-238.webp",
+        "width": 5581,
+        "height": 3721,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-239.webp",
+        "width": 3897,
+        "height": 2598,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-240.webp",
+        "width": 4962,
+        "height": 3308,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-241.webp",
+        "width": 5138,
+        "height": 3425,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-242.webp",
+        "width": 4464,
+        "height": 2976,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-243.webp",
+        "width": 4289,
+        "height": 2859,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-244.webp",
+        "width": 5116,
+        "height": 3411,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-245.webp",
+        "width": 5080,
+        "height": 3387,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-246.webp",
+        "width": 5740,
+        "height": 3827,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-247.webp",
+        "width": 4613,
+        "height": 3075,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-248.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-249.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-250.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-251.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-252.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-253.webp",
+        "width": 4604,
+        "height": 3069,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-254.webp",
+        "width": 4357,
+        "height": 2905,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-255.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250726-256.webp",
+        "width": 5864,
+        "height": 3909,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-257.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-258.webp",
+        "width": 5190,
+        "height": 3460,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-259.webp",
+        "width": 5412,
+        "height": 3608,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-260.webp",
+        "width": 5056,
+        "height": 3371,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-261.webp",
+        "width": 4321,
+        "height": 2881,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-262.webp",
+        "width": 4468,
+        "height": 2979,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-263.webp",
+        "width": 4617,
+        "height": 3078,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-264.webp",
+        "width": 4731,
+        "height": 3154,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-265.webp",
+        "width": 4631,
+        "height": 3087,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-266.webp",
+        "width": 4645,
+        "height": 3097,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-267.webp",
+        "width": 4266,
+        "height": 2844,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-268.webp",
+        "width": 4922,
+        "height": 3281,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-269.webp",
+        "width": 4207,
+        "height": 2805,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-270.webp",
+        "width": 4480,
+        "height": 2987,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-271.webp",
+        "width": 1871,
+        "height": 2806,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-272.webp",
+        "width": 4072,
+        "height": 2715,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-273.webp",
+        "width": 4770,
+        "height": 3180,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-274.webp",
+        "width": 4829,
+        "height": 3219,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-275.webp",
+        "width": 5065,
+        "height": 3377,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-276.webp",
+        "width": 5227,
+        "height": 3485,
+        "type": "webp"
+      },
+      {
+        "filename": "airventure-oshkosh-20250727-277.webp",
+        "width": 5077,
+        "height": 3385,
+        "type": "webp"
+      }
+    ],
+    "2025.08.11-mach-loop": [
+      {
+        "filename": "mach-loop-20250811-001.webp",
+        "width": 4947,
+        "height": 3298,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-002.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-003.webp",
+        "width": 5522,
+        "height": 3681,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-004.webp",
+        "width": 5180,
+        "height": 3453,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-005.webp",
+        "width": 4779,
+        "height": 3186,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-006.webp",
+        "width": 4788,
+        "height": 3192,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-007.webp",
+        "width": 5666,
+        "height": 3777,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-008.webp",
+        "width": 5234,
+        "height": 3489,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-009.webp",
+        "width": 5422,
+        "height": 3615,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-010.webp",
+        "width": 4848,
+        "height": 3232,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-011.webp",
+        "width": 5504,
+        "height": 3669,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-012.webp",
+        "width": 5230,
+        "height": 3487,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-013.webp",
+        "width": 4638,
+        "height": 3092,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-014.webp",
+        "width": 4929,
+        "height": 3286,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-015.webp",
+        "width": 5245,
+        "height": 3497,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-016.webp",
+        "width": 5030,
+        "height": 3353,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-017.webp",
+        "width": 4953,
+        "height": 3302,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-018.webp",
+        "width": 5184,
+        "height": 3456,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-019.webp",
+        "width": 4347,
+        "height": 2898,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-020.webp",
+        "width": 5111,
+        "height": 3407,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-021.webp",
+        "width": 4925,
+        "height": 3283,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-022.webp",
+        "width": 5002,
+        "height": 3335,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-023.webp",
+        "width": 5295,
+        "height": 3530,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-024.webp",
+        "width": 5264,
+        "height": 3509,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-025.webp",
+        "width": 4651,
+        "height": 3101,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-026.webp",
+        "width": 5050,
+        "height": 3367,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-027.webp",
+        "width": 4993,
+        "height": 3329,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-028.webp",
+        "width": 4808,
+        "height": 3205,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-029.webp",
+        "width": 4852,
+        "height": 3235,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-030.webp",
+        "width": 4955,
+        "height": 3303,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-031.webp",
+        "width": 4841,
+        "height": 3227,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-032.webp",
+        "width": 5645,
+        "height": 3763,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-033.webp",
+        "width": 5267,
+        "height": 3511,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-034.webp",
+        "width": 4886,
+        "height": 3257,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-035.webp",
+        "width": 5104,
+        "height": 3403,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-036.webp",
+        "width": 5011,
+        "height": 3341,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-037.webp",
+        "width": 4719,
+        "height": 3146,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-038.webp",
+        "width": 4935,
+        "height": 3290,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-039.webp",
+        "width": 5511,
+        "height": 3674,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-040.webp",
+        "width": 5434,
+        "height": 3623,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-041.webp",
+        "width": 5139,
+        "height": 3426,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-042.webp",
+        "width": 5250,
+        "height": 3500,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-043.webp",
+        "width": 5060,
+        "height": 3373,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-044.webp",
+        "width": 6000,
+        "height": 4000,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-045.webp",
+        "width": 5132,
+        "height": 3421,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-046.webp",
+        "width": 5141,
+        "height": 3427,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-047.webp",
+        "width": 5360,
+        "height": 3573,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-048.webp",
+        "width": 4743,
+        "height": 3162,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-049.webp",
+        "width": 4741,
+        "height": 3161,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-050.webp",
+        "width": 4853,
+        "height": 3235,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-051.webp",
+        "width": 4539,
+        "height": 3026,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-052.webp",
+        "width": 5116,
+        "height": 3411,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-053.webp",
+        "width": 5135,
+        "height": 3423,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-054.webp",
+        "width": 5206,
+        "height": 3471,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-055.webp",
+        "width": 4645,
+        "height": 3097,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-056.webp",
+        "width": 5198,
+        "height": 3465,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-057.webp",
+        "width": 5017,
+        "height": 3345,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-058.webp",
+        "width": 5286,
+        "height": 3524,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-059.webp",
+        "width": 5464,
+        "height": 3643,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-060.webp",
+        "width": 5444,
+        "height": 3629,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250811-061.webp",
+        "width": 5358,
+        "height": 3572,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-062.webp",
+        "width": 4640,
+        "height": 3093,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-063.webp",
+        "width": 5105,
+        "height": 3403,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-064.webp",
+        "width": 5484,
+        "height": 3656,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-065.webp",
+        "width": 4549,
+        "height": 3033,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-066.webp",
+        "width": 4468,
+        "height": 2979,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-067.webp",
+        "width": 4562,
+        "height": 3041,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-068.webp",
+        "width": 5581,
+        "height": 3721,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-069.webp",
+        "width": 5262,
+        "height": 3508,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-070.webp",
+        "width": 5450,
+        "height": 3633,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-071.webp",
+        "width": 4580,
+        "height": 3053,
+        "type": "webp"
+      },
+      {
+        "filename": "mach-loop-20250812-072.webp",
+        "width": 4100,
+        "height": 2733,
+        "type": "webp"
+      }
+    ],
+    "2025.09.18-nas-oceana": [
+      {
+        "filename": "nas-oceana-20250918-001.webp",
+        "width": 5946,
+        "height": 3964,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-002.webp",
+        "width": 3346,
+        "height": 5019,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-003.webp",
+        "width": 5197,
+        "height": 3465,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-004.webp",
+        "width": 4975,
+        "height": 3317,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-005.webp",
+        "width": 5216,
+        "height": 3477,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-006.webp",
+        "width": 4589,
+        "height": 3059,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-007.webp",
+        "width": 3551,
+        "height": 5327,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-008.webp",
+        "width": 5989,
+        "height": 3993,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-009.webp",
+        "width": 5125,
+        "height": 3417,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-010.webp",
+        "width": 2688,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-011.webp",
+        "width": 5344,
+        "height": 3563,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-012.webp",
+        "width": 4004,
+        "height": 6006,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-013.webp",
+        "width": 5776,
+        "height": 3851,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-014.webp",
+        "width": 5551,
+        "height": 3701,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250918-015.webp",
+        "width": 5540,
+        "height": 3693,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-016.webp",
+        "width": 4457,
+        "height": 2971,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-017.webp",
+        "width": 3683,
+        "height": 5524,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-018.webp",
+        "width": 5059,
+        "height": 3373,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-019.webp",
+        "width": 5659,
+        "height": 3773,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-020.webp",
+        "width": 5185,
+        "height": 3457,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-021.webp",
+        "width": 4995,
+        "height": 3330,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-022.webp",
+        "width": 5159,
+        "height": 3439,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-023.webp",
+        "width": 5057,
+        "height": 3371,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-024.webp",
+        "width": 5426,
+        "height": 3617,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-025.webp",
+        "width": 5014,
+        "height": 3343,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-026.webp",
+        "width": 4678,
+        "height": 3119,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-027.webp",
+        "width": 6006,
+        "height": 4004,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-028.webp",
+        "width": 5410,
+        "height": 3607,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-029.webp",
+        "width": 5229,
+        "height": 3486,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-030.webp",
+        "width": 5128,
+        "height": 3419,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-031.webp",
+        "width": 4875,
+        "height": 3250,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-032.webp",
+        "width": 5800,
+        "height": 3867,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-033.webp",
+        "width": 5674,
+        "height": 3783,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-034.webp",
+        "width": 4689,
+        "height": 3126,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-035.webp",
+        "width": 5311,
+        "height": 3541,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-036.webp",
+        "width": 5410,
+        "height": 3607,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-037.webp",
+        "width": 5469,
+        "height": 3646,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-038.webp",
+        "width": 5796,
+        "height": 3864,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-039.webp",
+        "width": 5886,
+        "height": 3924,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-040.webp",
+        "width": 4660,
+        "height": 3107,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-041.webp",
+        "width": 5350,
+        "height": 3567,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-042.webp",
+        "width": 5745,
+        "height": 3830,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-043.webp",
+        "width": 5202,
+        "height": 3468,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-044.webp",
+        "width": 5152,
+        "height": 3435,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-045.webp",
+        "width": 4471,
+        "height": 2981,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-046.webp",
+        "width": 5472,
+        "height": 3648,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250919-047.webp",
+        "width": 5318,
+        "height": 3545,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-048.webp",
+        "width": 5923,
+        "height": 3949,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-049.webp",
+        "width": 3467,
+        "height": 5200,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-050.webp",
+        "width": 3640,
+        "height": 5460,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-051.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-052.webp",
+        "width": 5078,
+        "height": 3385,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-053.webp",
+        "width": 5606,
+        "height": 3737,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-054.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-055.webp",
+        "width": 5891,
+        "height": 3927,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-056.webp",
+        "width": 5032,
+        "height": 3355,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-057.webp",
+        "width": 4585,
+        "height": 3057,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-058.webp",
+        "width": 5145,
+        "height": 3430,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-059.webp",
+        "width": 4539,
+        "height": 3026,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-060.webp",
+        "width": 4413,
+        "height": 2942,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-061.webp",
+        "width": 5151,
+        "height": 3434,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-062.webp",
+        "width": 5458,
+        "height": 3639,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-063.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-064.webp",
+        "width": 5418,
+        "height": 3612,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-065.webp",
+        "width": 5122,
+        "height": 3415,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-066.webp",
+        "width": 5059,
+        "height": 3373,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-067.webp",
+        "width": 5798,
+        "height": 3865,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-068.webp",
+        "width": 5859,
+        "height": 3906,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-069.webp",
+        "width": 5724,
+        "height": 3816,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-070.webp",
+        "width": 4692,
+        "height": 3128,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-071.webp",
+        "width": 5164,
+        "height": 3443,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-072.webp",
+        "width": 4687,
+        "height": 3125,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-073.webp",
+        "width": 5554,
+        "height": 3703,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-074.webp",
+        "width": 5596,
+        "height": 3731,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-075.webp",
+        "width": 5267,
+        "height": 3511,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-076.webp",
+        "width": 6006,
+        "height": 4004,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-077.webp",
+        "width": 3657,
+        "height": 5486,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-078.webp",
+        "width": 5410,
+        "height": 3607,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-079.webp",
+        "width": 5597,
+        "height": 3731,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-080.webp",
+        "width": 5021,
+        "height": 3347,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-081.webp",
+        "width": 5272,
+        "height": 3515,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-082.webp",
+        "width": 5110,
+        "height": 3407,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-083.webp",
+        "width": 5766,
+        "height": 3844,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-084.webp",
+        "width": 5371,
+        "height": 3581,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-085.webp",
+        "width": 3866,
+        "height": 5799,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-086.webp",
+        "width": 5646,
+        "height": 3764,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-087.webp",
+        "width": 5503,
+        "height": 3669,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-088.webp",
+        "width": 3667,
+        "height": 5501,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-089.webp",
+        "width": 5842,
+        "height": 3895,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-090.webp",
+        "width": 3865,
+        "height": 5798,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-091.webp",
+        "width": 5115,
+        "height": 3410,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-092.webp",
+        "width": 5867,
+        "height": 3911,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-093.webp",
+        "width": 4570,
+        "height": 3047,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-094.webp",
+        "width": 5303,
+        "height": 3535,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-095.webp",
+        "width": 5004,
+        "height": 3336,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-096.webp",
+        "width": 5234,
+        "height": 3489,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-097.webp",
+        "width": 5137,
+        "height": 3425,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-098.webp",
+        "width": 5579,
+        "height": 3719,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-099.webp",
+        "width": 5661,
+        "height": 3774,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-100.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-101.webp",
+        "width": 4923,
+        "height": 3282,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-102.webp",
+        "width": 4455,
+        "height": 2970,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-103.webp",
+        "width": 5202,
+        "height": 3468,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-104.webp",
+        "width": 5257,
+        "height": 3505,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-105.webp",
+        "width": 5763,
+        "height": 3842,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-106.webp",
+        "width": 3914,
+        "height": 5871,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-107.webp",
+        "width": 5649,
+        "height": 3766,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-108.webp",
+        "width": 5662,
+        "height": 3775,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-109.webp",
+        "width": 3659,
+        "height": 5489,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-110.webp",
+        "width": 5085,
+        "height": 3390,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-111.webp",
+        "width": 3759,
+        "height": 5639,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-112.webp",
+        "width": 5175,
+        "height": 3450,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-113.webp",
+        "width": 5299,
+        "height": 3533,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-114.webp",
+        "width": 5319,
+        "height": 3546,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-115.webp",
+        "width": 5200,
+        "height": 3467,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-116.webp",
+        "width": 5307,
+        "height": 3538,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-117.webp",
+        "width": 5469,
+        "height": 3646,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-118.webp",
+        "width": 4700,
+        "height": 3133,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250920-119.webp",
+        "width": 3779,
+        "height": 5668,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-120.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-121.webp",
+        "width": 6010,
+        "height": 4007,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-122.webp",
+        "width": 5856,
+        "height": 3904,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-123.webp",
+        "width": 5946,
+        "height": 2477,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-124.webp",
+        "width": 5653,
+        "height": 3769,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-125.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-126.webp",
+        "width": 5660,
+        "height": 3773,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-127.webp",
+        "width": 5922,
+        "height": 3948,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-128.webp",
+        "width": 5233,
+        "height": 3489,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-129.webp",
+        "width": 5665,
+        "height": 3777,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-130.webp",
+        "width": 5767,
+        "height": 3845,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-131.webp",
+        "width": 4574,
+        "height": 3049,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-132.webp",
+        "width": 3673,
+        "height": 5510,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-133.webp",
+        "width": 4767,
+        "height": 3178,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-134.webp",
+        "width": 5423,
+        "height": 3615,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-135.webp",
+        "width": 5546,
+        "height": 3697,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-136.webp",
+        "width": 5623,
+        "height": 3749,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-137.webp",
+        "width": 5797,
+        "height": 3865,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-138.webp",
+        "width": 4916,
+        "height": 3277,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-139.webp",
+        "width": 4836,
+        "height": 3224,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-140.webp",
+        "width": 5434,
+        "height": 3623,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-141.webp",
+        "width": 5461,
+        "height": 3641,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-142.webp",
+        "width": 5022,
+        "height": 3348,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-143.webp",
+        "width": 5268,
+        "height": 3512,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-144.webp",
+        "width": 5741,
+        "height": 3827,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-145.webp",
+        "width": 5299,
+        "height": 3533,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-146.webp",
+        "width": 5337,
+        "height": 3558,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-147.webp",
+        "width": 5491,
+        "height": 3661,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-148.webp",
+        "width": 5168,
+        "height": 3445,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-149.webp",
+        "width": 5545,
+        "height": 3697,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-150.webp",
+        "width": 5547,
+        "height": 3698,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-151.webp",
+        "width": 4865,
+        "height": 3243,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-152.webp",
+        "width": 3746,
+        "height": 5619,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-153.webp",
+        "width": 5389,
+        "height": 3593,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-154.webp",
+        "width": 5566,
+        "height": 3711,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-155.webp",
+        "width": 5149,
+        "height": 3433,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-156.webp",
+        "width": 5250,
+        "height": 3500,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-157.webp",
+        "width": 3984,
+        "height": 5976,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-158.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-159.webp",
+        "width": 4483,
+        "height": 2989,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-160.webp",
+        "width": 4916,
+        "height": 2048,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-161.webp",
+        "width": 4511,
+        "height": 3007,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-162.webp",
+        "width": 5059,
+        "height": 3373,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-163.webp",
+        "width": 5069,
+        "height": 3379,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-164.webp",
+        "width": 5425,
+        "height": 3617,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-165.webp",
+        "width": 2690,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-166.webp",
+        "width": 5527,
+        "height": 3685,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-167.webp",
+        "width": 5073,
+        "height": 3382,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-168.webp",
+        "width": 4916,
+        "height": 3277,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-169.webp",
+        "width": 5499,
+        "height": 3666,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-170.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-171.webp",
+        "width": 5801,
+        "height": 3867,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-172.webp",
+        "width": 5463,
+        "height": 3642,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-173.webp",
+        "width": 5911,
+        "height": 3941,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-174.webp",
+        "width": 3633,
+        "height": 5450,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-175.webp",
+        "width": 5090,
+        "height": 3393,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-176.webp",
+        "width": 5156,
+        "height": 3437,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-177.webp",
+        "width": 4262,
+        "height": 2841,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-178.webp",
+        "width": 4262,
+        "height": 2841,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-179.webp",
+        "width": 4872,
+        "height": 3248,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-180.webp",
+        "width": 5783,
+        "height": 3855,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-181.webp",
+        "width": 4533,
+        "height": 3022,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-182.webp",
+        "width": 5548,
+        "height": 3699,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-183.webp",
+        "width": 5241,
+        "height": 3494,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-184.webp",
+        "width": 4821,
+        "height": 3214,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-185.webp",
+        "width": 5211,
+        "height": 3474,
+        "type": "webp"
+      },
+      {
+        "filename": "nas-oceana-20250921-186.webp",
+        "width": 5669,
+        "height": 3779,
+        "type": "webp"
+      }
+    ],
+    "2025.10.04-abq-balloon-fiesta": [
+      {
+        "filename": "abq-balloon-fiesta-20251004-001.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-002.webp",
+        "width": 3718,
+        "height": 5577,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-003.webp",
+        "width": 5577,
+        "height": 3718,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-004.webp",
+        "width": 5357,
+        "height": 3571,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-005.webp",
+        "width": 3895,
+        "height": 5843,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-006.webp",
+        "width": 5883,
+        "height": 3922,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-007.webp",
+        "width": 3508,
+        "height": 5262,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-008.webp",
+        "width": 5484,
+        "height": 3656,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-009.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-010.webp",
+        "width": 5849,
+        "height": 3899,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-011.webp",
+        "width": 5608,
+        "height": 3739,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-012.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-013.webp",
+        "width": 3942,
+        "height": 5913,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251004-014.webp",
+        "width": 5837,
+        "height": 3891,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-015.webp",
+        "width": 3315,
+        "height": 4972,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-016.webp",
+        "width": 4966,
+        "height": 3311,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-017.webp",
+        "width": 5270,
+        "height": 3513,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-018.webp",
+        "width": 5288,
+        "height": 3525,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-019.webp",
+        "width": 3497,
+        "height": 5245,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-020.webp",
+        "width": 5493,
+        "height": 3662,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-021.webp",
+        "width": 3781,
+        "height": 5671,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-022.webp",
+        "width": 3441,
+        "height": 5161,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-023.webp",
+        "width": 5439,
+        "height": 3626,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-024.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-025.webp",
+        "width": 5958,
+        "height": 3972,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-026.webp",
+        "width": 5797,
+        "height": 3865,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-027.webp",
+        "width": 5934,
+        "height": 3956,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-028.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-029.webp",
+        "width": 3493,
+        "height": 5239,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-030.webp",
+        "width": 3691,
+        "height": 5536,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-031.webp",
+        "width": 4952,
+        "height": 3301,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-032.webp",
+        "width": 5638,
+        "height": 3759,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-033.webp",
+        "width": 4021,
+        "height": 6032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-034.webp",
+        "width": 5516,
+        "height": 3677,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-035.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-036.webp",
+        "width": 2907,
+        "height": 4360,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-037.webp",
+        "width": 6009,
+        "height": 4006,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-038.webp",
+        "width": 3978,
+        "height": 5967,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-039.webp",
+        "width": 5991,
+        "height": 3994,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-040.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-041.webp",
+        "width": 3699,
+        "height": 5549,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-042.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-043.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-044.webp",
+        "width": 3708,
+        "height": 5562,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-045.webp",
+        "width": 5718,
+        "height": 3812,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-046.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-047.webp",
+        "width": 6028,
+        "height": 4019,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-048.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-049.webp",
+        "width": 5937,
+        "height": 3958,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-050.webp",
+        "width": 3988,
+        "height": 5982,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-051.webp",
+        "width": 5722,
+        "height": 3815,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-052.webp",
+        "width": 5707,
+        "height": 3805,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-053.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-054.webp",
+        "width": 3987,
+        "height": 5981,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-055.webp",
+        "width": 5835,
+        "height": 3890,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-056.webp",
+        "width": 5746,
+        "height": 3831,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-057.webp",
+        "width": 5321,
+        "height": 3547,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-058.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-059.webp",
+        "width": 3857,
+        "height": 5786,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-060.webp",
+        "width": 3841,
+        "height": 5762,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-061.webp",
+        "width": 5049,
+        "height": 3366,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-062.webp",
+        "width": 3431,
+        "height": 5147,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-063.webp",
+        "width": 5269,
+        "height": 3513,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-064.webp",
+        "width": 3891,
+        "height": 5837,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-065.webp",
+        "width": 3997,
+        "height": 5996,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-066.webp",
+        "width": 5465,
+        "height": 3643,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-067.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-068.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-069.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-070.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-071.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-072.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-073.webp",
+        "width": 5722,
+        "height": 3815,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-074.webp",
+        "width": 5534,
+        "height": 3689,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-075.webp",
+        "width": 5788,
+        "height": 3859,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-076.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-077.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-078.webp",
+        "width": 5734,
+        "height": 3823,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-079.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-080.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-081.webp",
+        "width": 5896,
+        "height": 3931,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-082.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-083.webp",
+        "width": 3958,
+        "height": 5937,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-084.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-085.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-086.webp",
+        "width": 3915,
+        "height": 5872,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-087.webp",
+        "width": 5981,
+        "height": 3987,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-088.webp",
+        "width": 5912,
+        "height": 3941,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251005-089.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-090.webp",
+        "width": 5010,
+        "height": 3340,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-091.webp",
+        "width": 4991,
+        "height": 3327,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-092.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-093.webp",
+        "width": 3411,
+        "height": 5117,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-094.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-095.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-096.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-097.webp",
+        "width": 5930,
+        "height": 3953,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-098.webp",
+        "width": 3828,
+        "height": 5742,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-099.webp",
+        "width": 5968,
+        "height": 3979,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-100.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-101.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-102.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-103.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-104.webp",
+        "width": 3968,
+        "height": 5952,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-105.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-106.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-107.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-108.webp",
+        "width": 5521,
+        "height": 3681,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-109.webp",
+        "width": 3553,
+        "height": 5330,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-110.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-111.webp",
+        "width": 3980,
+        "height": 5970,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-112.webp",
+        "width": 3845,
+        "height": 5767,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-113.webp",
+        "width": 5807,
+        "height": 3871,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-114.webp",
+        "width": 5757,
+        "height": 3838,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-115.webp",
+        "width": 5943,
+        "height": 3962,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-116.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-117.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-118.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-119.webp",
+        "width": 5786,
+        "height": 3857,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-120.webp",
+        "width": 5565,
+        "height": 3710,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-121.webp",
+        "width": 3557,
+        "height": 5336,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-122.webp",
+        "width": 5429,
+        "height": 3619,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-123.webp",
+        "width": 5126,
+        "height": 3417,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-124.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-125.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-126.webp",
+        "width": 3970,
+        "height": 5955,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-127.webp",
+        "width": 5717,
+        "height": 3811,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-128.webp",
+        "width": 3727,
+        "height": 5590,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-129.webp",
+        "width": 5557,
+        "height": 3705,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-130.webp",
+        "width": 3716,
+        "height": 5574,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-131.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-132.webp",
+        "width": 5796,
+        "height": 3864,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-133.webp",
+        "width": 3966,
+        "height": 5949,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-134.webp",
+        "width": 3363,
+        "height": 5044,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-135.webp",
+        "width": 5773,
+        "height": 3849,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-136.webp",
+        "width": 3949,
+        "height": 5923,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-137.webp",
+        "width": 3449,
+        "height": 5174,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-138.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-139.webp",
+        "width": 3895,
+        "height": 5843,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-140.webp",
+        "width": 3606,
+        "height": 5409,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-141.webp",
+        "width": 5767,
+        "height": 3845,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-142.webp",
+        "width": 6034,
+        "height": 4023,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-143.webp",
+        "width": 3953,
+        "height": 5929,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-144.webp",
+        "width": 5660,
+        "height": 3773,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-145.webp",
+        "width": 5188,
+        "height": 3459,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-146.webp",
+        "width": 5611,
+        "height": 3741,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-147.webp",
+        "width": 3693,
+        "height": 5540,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-148.webp",
+        "width": 5347,
+        "height": 3565,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-149.webp",
+        "width": 5049,
+        "height": 3366,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-150.webp",
+        "width": 3891,
+        "height": 5837,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-151.webp",
+        "width": 5693,
+        "height": 3795,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-152.webp",
+        "width": 3717,
+        "height": 5575,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-153.webp",
+        "width": 5243,
+        "height": 3495,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-154.webp",
+        "width": 3937,
+        "height": 5905,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-155.webp",
+        "width": 4040,
+        "height": 2693,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-156.webp",
+        "width": 4013,
+        "height": 6020,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-157.webp",
+        "width": 5902,
+        "height": 3935,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-158.webp",
+        "width": 5598,
+        "height": 3732,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-159.webp",
+        "width": 3749,
+        "height": 5623,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-160.webp",
+        "width": 6001,
+        "height": 4001,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-161.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-162.webp",
+        "width": 5789,
+        "height": 3859,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251006-163.webp",
+        "width": 5513,
+        "height": 3675,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-164.webp",
+        "width": 4865,
+        "height": 3243,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-165.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-166.webp",
+        "width": 5811,
+        "height": 3874,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-167.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-168.webp",
+        "width": 5343,
+        "height": 3562,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-169.webp",
+        "width": 3670,
+        "height": 5505,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-170.webp",
+        "width": 5028,
+        "height": 3352,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-171.webp",
+        "width": 5749,
+        "height": 3833,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-172.webp",
+        "width": 5510,
+        "height": 3673,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-173.webp",
+        "width": 3997,
+        "height": 5995,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-174.webp",
+        "width": 5811,
+        "height": 3874,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-175.webp",
+        "width": 5653,
+        "height": 3769,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-176.webp",
+        "width": 5800,
+        "height": 3867,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-177.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-178.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-179.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-180.webp",
+        "width": 3751,
+        "height": 5627,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-181.webp",
+        "width": 5856,
+        "height": 3904,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-182.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-183.webp",
+        "width": 5893,
+        "height": 3929,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-184.webp",
+        "width": 5356,
+        "height": 3571,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-185.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-186.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-187.webp",
+        "width": 3881,
+        "height": 5821,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-188.webp",
+        "width": 3953,
+        "height": 5930,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-189.webp",
+        "width": 4001,
+        "height": 6001,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-190.webp",
+        "width": 5959,
+        "height": 3973,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-191.webp",
+        "width": 3837,
+        "height": 5756,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-192.webp",
+        "width": 5289,
+        "height": 3526,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-193.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-194.webp",
+        "width": 4002,
+        "height": 6003,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-195.webp",
+        "width": 5938,
+        "height": 3959,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-196.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-197.webp",
+        "width": 5912,
+        "height": 3941,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-198.webp",
+        "width": 5357,
+        "height": 3571,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-199.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-200.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-201.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-202.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-203.webp",
+        "width": 3953,
+        "height": 5929,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-204.webp",
+        "width": 5839,
+        "height": 3893,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-205.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-206.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-207.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-208.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-209.webp",
+        "width": 5750,
+        "height": 3833,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-210.webp",
+        "width": 5651,
+        "height": 3767,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-211.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-212.webp",
+        "width": 5684,
+        "height": 3789,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-213.webp",
+        "width": 5793,
+        "height": 3862,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-214.webp",
+        "width": 6037,
+        "height": 4025,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-215.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-216.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-217.webp",
+        "width": 5572,
+        "height": 3715,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-218.webp",
+        "width": 5331,
+        "height": 3554,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-219.webp",
+        "width": 3808,
+        "height": 5712,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-220.webp",
+        "width": 3555,
+        "height": 5332,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-221.webp",
+        "width": 3752,
+        "height": 5628,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-222.webp",
+        "width": 4757,
+        "height": 3171,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-223.webp",
+        "width": 5720,
+        "height": 3813,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-224.webp",
+        "width": 5396,
+        "height": 3597,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-225.webp",
+        "width": 3609,
+        "height": 5414,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-226.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-227.webp",
+        "width": 5050,
+        "height": 3367,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-228.webp",
+        "width": 3557,
+        "height": 5336,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-229.webp",
+        "width": 5666,
+        "height": 3777,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-230.webp",
+        "width": 5922,
+        "height": 3948,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-231.webp",
+        "width": 5709,
+        "height": 3806,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-232.webp",
+        "width": 3803,
+        "height": 5704,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-233.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-234.webp",
+        "width": 3889,
+        "height": 5833,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-235.webp",
+        "width": 5659,
+        "height": 3773,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-236.webp",
+        "width": 5231,
+        "height": 3487,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-237.webp",
+        "width": 5117,
+        "height": 3411,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-238.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-239.webp",
+        "width": 5953,
+        "height": 3969,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-240.webp",
+        "width": 3989,
+        "height": 5984,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-241.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-242.webp",
+        "width": 4025,
+        "height": 6037,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251007-243.webp",
+        "width": 5929,
+        "height": 3953,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-244.webp",
+        "width": 5514,
+        "height": 3676,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-245.webp",
+        "width": 5796,
+        "height": 3864,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-246.webp",
+        "width": 2783,
+        "height": 4174,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-247.webp",
+        "width": 5324,
+        "height": 3549,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-248.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-249.webp",
+        "width": 3355,
+        "height": 5033,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-250.webp",
+        "width": 5520,
+        "height": 3680,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-251.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-252.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-253.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-254.webp",
+        "width": 5258,
+        "height": 3505,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-255.webp",
+        "width": 3923,
+        "height": 5884,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-256.webp",
+        "width": 5920,
+        "height": 3947,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-257.webp",
+        "width": 5939,
+        "height": 3959,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-258.webp",
+        "width": 6031,
+        "height": 4021,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-259.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-260.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-261.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-262.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-263.webp",
+        "width": 3793,
+        "height": 5690,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-264.webp",
+        "width": 5836,
+        "height": 3891,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-265.webp",
+        "width": 3982,
+        "height": 5973,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-266.webp",
+        "width": 5034,
+        "height": 3356,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-267.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-268.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-269.webp",
+        "width": 3537,
+        "height": 5306,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-270.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-271.webp",
+        "width": 5711,
+        "height": 3807,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-272.webp",
+        "width": 5622,
+        "height": 3748,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-273.webp",
+        "width": 6029,
+        "height": 4019,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-274.webp",
+        "width": 6012,
+        "height": 4008,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-275.webp",
+        "width": 6023,
+        "height": 4015,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-276.webp",
+        "width": 5753,
+        "height": 3835,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-277.webp",
+        "width": 6031,
+        "height": 4021,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-278.webp",
+        "width": 5705,
+        "height": 3803,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-279.webp",
+        "width": 3863,
+        "height": 5795,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-280.webp",
+        "width": 5918,
+        "height": 3945,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-281.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-282.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-283.webp",
+        "width": 5458,
+        "height": 3639,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-284.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-285.webp",
+        "width": 5594,
+        "height": 3729,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-286.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-287.webp",
+        "width": 5355,
+        "height": 3570,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-288.webp",
+        "width": 5288,
+        "height": 3525,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-289.webp",
+        "width": 5615,
+        "height": 3743,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-290.webp",
+        "width": 5658,
+        "height": 3772,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-291.webp",
+        "width": 5453,
+        "height": 3635,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-292.webp",
+        "width": 6032,
+        "height": 4021,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-293.webp",
+        "width": 5720,
+        "height": 3813,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-294.webp",
+        "width": 3605,
+        "height": 5408,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-295.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-296.webp",
+        "width": 3887,
+        "height": 5830,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-297.webp",
+        "width": 5664,
+        "height": 3776,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-298.webp",
+        "width": 5826,
+        "height": 3884,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-299.webp",
+        "width": 5869,
+        "height": 3913,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-300.webp",
+        "width": 5132,
+        "height": 3421,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-301.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-302.webp",
+        "width": 5833,
+        "height": 3889,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251008-303.webp",
+        "width": 5278,
+        "height": 3519,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-304.webp",
+        "width": 5563,
+        "height": 3709,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-305.webp",
+        "width": 4947,
+        "height": 3298,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-306.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-307.webp",
+        "width": 4459,
+        "height": 2973,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-308.webp",
+        "width": 5621,
+        "height": 3747,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-309.webp",
+        "width": 3933,
+        "height": 5899,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-310.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-311.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-312.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-313.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-314.webp",
+        "width": 5744,
+        "height": 3829,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-315.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-316.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-317.webp",
+        "width": 5928,
+        "height": 3952,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-318.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-319.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-320.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-321.webp",
+        "width": 5917,
+        "height": 3945,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-322.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-323.webp",
+        "width": 5924,
+        "height": 3949,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-324.webp",
+        "width": 3460,
+        "height": 5190,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-325.webp",
+        "width": 3154,
+        "height": 4731,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-326.webp",
+        "width": 3572,
+        "height": 5358,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-327.webp",
+        "width": 5687,
+        "height": 3791,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-328.webp",
+        "width": 5398,
+        "height": 3599,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-329.webp",
+        "width": 3902,
+        "height": 5853,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-330.webp",
+        "width": 5112,
+        "height": 3408,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-331.webp",
+        "width": 3433,
+        "height": 5150,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-332.webp",
+        "width": 5912,
+        "height": 3941,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-333.webp",
+        "width": 3821,
+        "height": 5732,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-334.webp",
+        "width": 5771,
+        "height": 3847,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-335.webp",
+        "width": 3897,
+        "height": 5845,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251009-336.webp",
+        "width": 5655,
+        "height": 3770,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-337.webp",
+        "width": 5692,
+        "height": 3795,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-338.webp",
+        "width": 5565,
+        "height": 3710,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-339.webp",
+        "width": 5547,
+        "height": 3698,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-340.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-341.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-342.webp",
+        "width": 5637,
+        "height": 3758,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-343.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-344.webp",
+        "width": 5952,
+        "height": 3968,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-345.webp",
+        "width": 5640,
+        "height": 3760,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-346.webp",
+        "width": 5995,
+        "height": 3997,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-347.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-348.webp",
+        "width": 5211,
+        "height": 3474,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-349.webp",
+        "width": 5775,
+        "height": 3850,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-350.webp",
+        "width": 3897,
+        "height": 5845,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-351.webp",
+        "width": 5707,
+        "height": 3805,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-352.webp",
+        "width": 5955,
+        "height": 3970,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-353.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-354.webp",
+        "width": 3493,
+        "height": 5239,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-355.webp",
+        "width": 3941,
+        "height": 5912,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-356.webp",
+        "width": 5908,
+        "height": 3939,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-357.webp",
+        "width": 5863,
+        "height": 3909,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-358.webp",
+        "width": 3741,
+        "height": 5612,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-359.webp",
+        "width": 5955,
+        "height": 3970,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-360.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-361.webp",
+        "width": 5722,
+        "height": 3815,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-362.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-363.webp",
+        "width": 3738,
+        "height": 5607,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-364.webp",
+        "width": 5346,
+        "height": 3564,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-365.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-366.webp",
+        "width": 3417,
+        "height": 5125,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-367.webp",
+        "width": 5721,
+        "height": 3814,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-368.webp",
+        "width": 5723,
+        "height": 3815,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-369.webp",
+        "width": 5561,
+        "height": 3707,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-370.webp",
+        "width": 5792,
+        "height": 3861,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-371.webp",
+        "width": 5341,
+        "height": 3561,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-372.webp",
+        "width": 5283,
+        "height": 3522,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-373.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-374.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-375.webp",
+        "width": 5704,
+        "height": 3803,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-376.webp",
+        "width": 5883,
+        "height": 3922,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-377.webp",
+        "width": 4920,
+        "height": 3280,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-378.webp",
+        "width": 3952,
+        "height": 5928,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-379.webp",
+        "width": 4840,
+        "height": 3227,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-380.webp",
+        "width": 5133,
+        "height": 3422,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-381.webp",
+        "width": 5314,
+        "height": 3543,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-382.webp",
+        "width": 5928,
+        "height": 3952,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-383.webp",
+        "width": 5646,
+        "height": 3764,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-384.webp",
+        "width": 5720,
+        "height": 3813,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-385.webp",
+        "width": 5502,
+        "height": 3668,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-386.webp",
+        "width": 5361,
+        "height": 3574,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-387.webp",
+        "width": 5825,
+        "height": 3883,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-388.webp",
+        "width": 4918,
+        "height": 3279,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-389.webp",
+        "width": 5790,
+        "height": 3860,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-390.webp",
+        "width": 5554,
+        "height": 3703,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-391.webp",
+        "width": 5987,
+        "height": 3991,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-392.webp",
+        "width": 5929,
+        "height": 3953,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-393.webp",
+        "width": 6009,
+        "height": 4006,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-394.webp",
+        "width": 5736,
+        "height": 3824,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-395.webp",
+        "width": 5128,
+        "height": 3419,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-396.webp",
+        "width": 5871,
+        "height": 3914,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-397.webp",
+        "width": 5697,
+        "height": 3798,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-398.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-399.webp",
+        "width": 5998,
+        "height": 3999,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-400.webp",
+        "width": 6042,
+        "height": 4028,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-401.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-402.webp",
+        "width": 3971,
+        "height": 5956,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-403.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-404.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-405.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "abq-balloon-fiesta-20251010-406.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      }
+    ],
+    "2025.10.17-wings-over-north-georgia": [
+      {
+        "filename": "wong-20251017-001.webp",
+        "width": 5644,
+        "height": 3763,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-002.webp",
+        "width": 5209,
+        "height": 3473,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-003.webp",
+        "width": 5324,
+        "height": 3549,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-004.webp",
+        "width": 5361,
+        "height": 3574,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-005.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-006.webp",
+        "width": 5204,
+        "height": 3469,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-007.webp",
+        "width": 5346,
+        "height": 3564,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-008.webp",
+        "width": 5668,
+        "height": 3779,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-009.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-010.webp",
+        "width": 3711,
+        "height": 5567,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-011.webp",
+        "width": 5089,
+        "height": 3393,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-012.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-013.webp",
+        "width": 5418,
+        "height": 3612,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-014.webp",
+        "width": 4723,
+        "height": 3149,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-015.webp",
+        "width": 5611,
+        "height": 3741,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-016.webp",
+        "width": 4412,
+        "height": 2941,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-017.webp",
+        "width": 5112,
+        "height": 3408,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-018.webp",
+        "width": 5158,
+        "height": 3439,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-019.webp",
+        "width": 4939,
+        "height": 3293,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-020.webp",
+        "width": 2411,
+        "height": 3616,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-021.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-022.webp",
+        "width": 5086,
+        "height": 3391,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-023.webp",
+        "width": 4909,
+        "height": 3273,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-024.webp",
+        "width": 4347,
+        "height": 2898,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-025.webp",
+        "width": 5678,
+        "height": 3785,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-026.webp",
+        "width": 3497,
+        "height": 5246,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-027.webp",
+        "width": 5728,
+        "height": 3819,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251017-028.webp",
+        "width": 3461,
+        "height": 5191,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-029.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-030.webp",
+        "width": 5507,
+        "height": 3671,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-031.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-032.webp",
+        "width": 5074,
+        "height": 3383,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-033.webp",
+        "width": 5388,
+        "height": 3592,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-034.webp",
+        "width": 5990,
+        "height": 3993,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-035.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-036.webp",
+        "width": 5154,
+        "height": 3436,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-037.webp",
+        "width": 5682,
+        "height": 3788,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-038.webp",
+        "width": 5138,
+        "height": 3425,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-039.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-040.webp",
+        "width": 5765,
+        "height": 3843,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-041.webp",
+        "width": 5840,
+        "height": 3893,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-042.webp",
+        "width": 4969,
+        "height": 3313,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-043.webp",
+        "width": 5678,
+        "height": 3785,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-044.webp",
+        "width": 5852,
+        "height": 3901,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-045.webp",
+        "width": 5699,
+        "height": 3799,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-046.webp",
+        "width": 6029,
+        "height": 4019,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-047.webp",
+        "width": 5084,
+        "height": 3389,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-048.webp",
+        "width": 5696,
+        "height": 3797,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-049.webp",
+        "width": 5839,
+        "height": 3893,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-050.webp",
+        "width": 5297,
+        "height": 3531,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-051.webp",
+        "width": 6039,
+        "height": 4026,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-052.webp",
+        "width": 5354,
+        "height": 3569,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-053.webp",
+        "width": 5250,
+        "height": 3500,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-054.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251018-055.webp",
+        "width": 5395,
+        "height": 3597,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-056.webp",
+        "width": 5516,
+        "height": 3677,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-057.webp",
+        "width": 5539,
+        "height": 3693,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-058.webp",
+        "width": 5243,
+        "height": 3495,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-059.webp",
+        "width": 5631,
+        "height": 3754,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-060.webp",
+        "width": 5516,
+        "height": 3677,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-061.webp",
+        "width": 5654,
+        "height": 3769,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-062.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-063.webp",
+        "width": 5804,
+        "height": 3869,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-064.webp",
+        "width": 5551,
+        "height": 3701,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-065.webp",
+        "width": 5307,
+        "height": 3538,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-066.webp",
+        "width": 5547,
+        "height": 3698,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-067.webp",
+        "width": 5926,
+        "height": 3951,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-068.webp",
+        "width": 5631,
+        "height": 3754,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-069.webp",
+        "width": 5632,
+        "height": 3755,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-070.webp",
+        "width": 5824,
+        "height": 3883,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-071.webp",
+        "width": 5654,
+        "height": 3769,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-072.webp",
+        "width": 5724,
+        "height": 3816,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-073.webp",
+        "width": 5883,
+        "height": 3922,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-074.webp",
+        "width": 5194,
+        "height": 3463,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-075.webp",
+        "width": 5345,
+        "height": 3563,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-076.webp",
+        "width": 5381,
+        "height": 3587,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-077.webp",
+        "width": 5581,
+        "height": 3721,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-078.webp",
+        "width": 5368,
+        "height": 3579,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-079.webp",
+        "width": 5589,
+        "height": 3726,
+        "type": "webp"
+      },
+      {
+        "filename": "wong-20251019-080.webp",
+        "width": 5762,
+        "height": 3841,
+        "type": "webp"
+      }
+    ],
+    "2025.11.08-warrenton-fall-classic": [
+      {
+        "filename": "MHLvsFCRHL-20251108-001.webp",
+        "width": 5923,
+        "height": 3949,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-002.webp",
+        "width": 5293,
+        "height": 3529,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-003.webp",
+        "width": 3483,
+        "height": 5224,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-004.webp",
+        "width": 5299,
+        "height": 3533,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-005.webp",
+        "width": 3871,
+        "height": 5807,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-006.webp",
+        "width": 4711,
+        "height": 3141,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-007.webp",
+        "width": 5564,
+        "height": 3709,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-008.webp",
+        "width": 5068,
+        "height": 3379,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-009.webp",
+        "width": 5610,
+        "height": 3740,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-010.webp",
+        "width": 3785,
+        "height": 5678,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-011.webp",
+        "width": 3628,
+        "height": 5442,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-012.webp",
+        "width": 3783,
+        "height": 5675,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-013.webp",
+        "width": 3848,
+        "height": 5772,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-014.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-015.webp",
+        "width": 5791,
+        "height": 3861,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-016.webp",
+        "width": 5563,
+        "height": 3709,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-017.webp",
+        "width": 2398,
+        "height": 3597,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-018.webp",
+        "width": 3847,
+        "height": 5771,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-019.webp",
+        "width": 3475,
+        "height": 5212,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-020.webp",
+        "width": 5577,
+        "height": 3718,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-021.webp",
+        "width": 3476,
+        "height": 5214,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-022.webp",
+        "width": 3884,
+        "height": 5826,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-023.webp",
+        "width": 5998,
+        "height": 3999,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-024.webp",
+        "width": 3858,
+        "height": 5787,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-025.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "MHLvsFCRHL-20251108-026.webp",
+        "width": 5961,
+        "height": 3974,
+        "type": "webp"
+      }
+    ],
+    "2025.11.11-aurora-borealis": [
+      {
+        "filename": "aurora-20251111-001.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-002.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-003.webp",
+        "width": 3489,
+        "height": 5234,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-004.webp",
+        "width": 5272,
+        "height": 3515,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-005.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-006.webp",
+        "width": 5929,
+        "height": 3953,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-007.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-008.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-009.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-010.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-011.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-012.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-013.webp",
+        "width": 3789,
+        "height": 5683,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251111-014.webp",
+        "width": 3789,
+        "height": 5683,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-015.webp",
+        "width": 5674,
+        "height": 3783,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-016.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-017.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-018.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-019.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-020.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-021.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-022.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-023.webp",
+        "width": 6048,
+        "height": 4032,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-024.webp",
+        "width": 4032,
+        "height": 6048,
+        "type": "webp"
+      },
+      {
+        "filename": "aurora-20251112-025.webp",
+        "width": 5357,
+        "height": 3571,
+        "type": "webp"
+      }
+    ]
+  }
+}
