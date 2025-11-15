@@ -80,9 +80,9 @@ extensions) in your desired sequence:
   "title": "Aviation Highlights",
   "folder": "aviation",
   "image_order": [
-    "DSC_1906.jpg",
-    "cobre.photos-0811-1014-4.jpg",
-    "DSC_0228.jpg"
+    "DSC_1906.webp",
+    "cobre.photos-0811-1014-4.webp",
+    "DSC_0228.webp"
   ]
 }
 ```

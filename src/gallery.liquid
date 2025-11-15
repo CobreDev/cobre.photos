@@ -35,7 +35,7 @@ eleventyComputed:
       <div class="gallery-item relative m-0.5">
         <i class="block bg-zinc-800" style="padding-bottom:{{ img.height | times: 100 | divided_by: img.width }}%"></i>
         <img
-          src="{{ img.url | replace: '.jpg', '_preview.webp' }}"
+          src="{{ img.url | replace: '.webp', '_preview.webp' }}"
           alt="{{ gallery.title }}"
           loading="lazy"
           class="absolute top-0 w-full h-auto object-cover cursor-pointer"

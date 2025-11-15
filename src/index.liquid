@@ -39,7 +39,7 @@ layout: index.liquid
       {% if gallery.type == "portfolio" and gallery.images.size > 0 %}
         <a href="{{ gallery.path }}" class="block hover:brightness-75 transition-filter duration-200">
           <img
-            src="{{ gallery.preview | replace: '.jpg', '_preview.webp' }}"
+            src="{{ gallery.preview | replace: '.webp', '_preview.webp' }}"
             alt="{{ gallery.title }}"
             class="w-full object-cover" />
           <h2 class="mt-2 text-center">

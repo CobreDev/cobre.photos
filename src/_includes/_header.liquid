@@ -17,7 +17,7 @@
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ gallery.description | default: "cobre's photography site." }}">
   {% if gallery and gallery.preview %}
-    <meta property="og:image" content="{{ gallery.preview | replace: '.jpg', '_preview.webp' | url }}">
+    <meta property="og:image" content="{{ gallery.preview | replace: '.webp', '_preview.webp' | url }}">
   {% endif %}
   <meta property="og:url" content="{{ page.url | url }}">
 
@@ -25,6 +25,6 @@
   <meta name="twitter:title" content="{{ title }}">
   <meta name="twitter:description" content="{{ gallery.description | default: "cobre's photography site." }}">
   {% if gallery and gallery.preview %}
-    <meta name="twitter:image" content="{{ gallery.preview | replace: '.jpg', '_preview.webp' | url }}">
+    <meta name="twitter:image" content="{{ gallery.preview | replace: '.webp', '_preview.webp' | url }}">
   {% endif %}
 </head>

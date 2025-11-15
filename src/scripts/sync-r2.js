@@ -9,6 +9,12 @@ const {
 
 const CONTENT_ROOT = path.join(__dirname, "..", "content");
 const MANIFEST_PATH = path.join(CONTENT_ROOT, "gallery-manifest.json");
+const WEBP_OPTIONS = {
+    quality: 80,
+    effort: 6,
+    lossless: false,
+    smartSubsample: true
+};
 
 loadEnvFile();
 
@@ -136,7 +142,7 @@ function collectLocalImages(directory) {
 
     return fs
         .readdirSync(directory)
-        .filter(file => /\.(jpe?g|png)$/i.test(file))
+        .filter(file => /\.(jpe?g|png|webp)$/i.test(file))
         .filter(file => !path.basename(file, path.extname(file)).endsWith("_preview"))
         .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 }
@@ -150,11 +156,17 @@ async function readImageMetadata(filePath) {
     };
 }
 
-function contentTypeForFile(filename) {
-    const ext = path.extname(filename).toLowerCase();
-    if (ext === ".jpg" || ext === ".jpeg") return "image/jpeg";
-    if (ext === ".png") return "image/png";
-    return "application/octet-stream";
+function ensureWebpFilename(filename) {
+    const ext = path.extname(filename);
+    if (ext.toLowerCase() === ".webp") {
+        return filename;
+    }
+    return `${path.basename(filename, ext)}.webp`;
+}
+
+function getBaseName(filename) {
+    const ext = path.extname(filename);
+    return path.basename(filename, ext);
 }
 
 async function listRemoteKeys(client, bucket, prefix) {
@@ -178,13 +190,19 @@ async function listRemoteKeys(client, bucket, prefix) {
 }
 
 async function uploadOriginal(client, bucket, key, filePath) {
-    const body = fs.createReadStream(filePath);
+    const ext = path.extname(filePath).toLowerCase();
+    const body =
+        ext === ".webp"
+            ? fs.createReadStream(filePath)
+            : await sharp(filePath)
+                  .webp(WEBP_OPTIONS)
+                  .toBuffer();
     await client.send(
         new PutObjectCommand({
             Bucket: bucket,
             Key: key,
             Body: body,
-            ContentType: contentTypeForFile(filePath),
+            ContentType: "image/webp",
             CacheControl: "public, max-age=31536000, immutable"
         })
     );
@@ -198,12 +216,7 @@ async function uploadPreview(client, bucket, key, filePath, type) {
 
     const buffer = await sharp(filePath)
         .resize(resizeOptions)
-        .webp({
-            quality: 80,
-            effort: 6,
-            lossless: false,
-            smartSubsample: true
-        })
+        .webp(WEBP_OPTIONS)
         .toBuffer();
 
     await client.send(
@@ -247,12 +260,15 @@ async function processGallery(client, config, manifest, type, folder, directory,
 
     for (const filename of files) {
         const filePath = path.join(directory, filename);
-        const baseName = path.basename(filename, path.extname(filename));
-        const originalKey = `${prefix}${filename}`;
+        const baseName = getBaseName(filename);
+        const targetFilename = ensureWebpFilename(filename);
+        const originalKey = `${prefix}${targetFilename}`;
         const previewFilename = `${baseName}_preview.webp`;
         const previewKey = `${prefix}${previewFilename}`;
 
-        const manifestEntry = manifestSection.find(entry => entry.filename === filename);
+        let manifestEntry =
+            manifestSection.find(entry => entry.filename === targetFilename) ||
+            manifestSection.find(entry => entry.filename === filename);
         const hasOriginalRemote = remoteKeys.has(originalKey);
         const hasPreviewRemote = remoteKeys.has(previewKey);
 
@@ -267,25 +283,35 @@ async function processGallery(client, config, manifest, type, folder, directory,
         }
 
         if (!manifestEntry) {
-            manifestSection.push({
-                filename,
+            manifestEntry = {
+                filename: targetFilename,
                 width: metadata.width,
                 height: metadata.height,
-                type: metadata.type
-            });
+                type: "webp"
+            };
+            manifestSection.push(manifestEntry);
             manifestUpdates += 1;
             manifestDirty = true;
-        } else if (metadata) {
+        } else {
             const originalWidth = manifestEntry.width;
             const originalHeight = manifestEntry.height;
             const originalType = manifestEntry.type;
-            manifestEntry.width = manifestEntry.width || metadata.width;
-            manifestEntry.height = manifestEntry.height || metadata.height;
-            manifestEntry.type = manifestEntry.type || metadata.type;
+            const originalFilename = manifestEntry.filename;
+
+            if (!manifestEntry.width && metadata) {
+                manifestEntry.width = metadata.width;
+            }
+            if (!manifestEntry.height && metadata) {
+                manifestEntry.height = metadata.height;
+            }
+            manifestEntry.type = "webp";
+            manifestEntry.filename = targetFilename;
+
             if (
                 manifestEntry.width !== originalWidth ||
                 manifestEntry.height !== originalHeight ||
-                manifestEntry.type !== originalType
+                manifestEntry.type !== originalType ||
+                manifestEntry.filename !== originalFilename
             ) {
                 manifestDirty = true;
             }
