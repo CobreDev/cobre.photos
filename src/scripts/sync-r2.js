@@ -122,11 +122,23 @@ function loadConfig() {
 }
 
 function loadManifest() {
+    const emptyManifest = { portfolio: {}, events: {} };
     if (!fs.existsSync(MANIFEST_PATH)) {
-        return { portfolio: {}, events: {} };
+        return emptyManifest;
     }
 
-    return JSON.parse(fs.readFileSync(MANIFEST_PATH, "utf-8"));
+    try {
+        const raw = fs.readFileSync(MANIFEST_PATH, "utf-8").trim();
+        if (!raw) {
+            console.warn("[sync-r2] Manifest is empty; starting from a blank manifest.");
+            return emptyManifest;
+        }
+        return JSON.parse(raw);
+    } catch (err) {
+        console.warn(`[sync-r2] Failed to parse manifest at ${MANIFEST_PATH}: ${err.message}`);
+        console.warn("[sync-r2] Continuing with a blank manifest instead.");
+        return emptyManifest;
+    }
 }
 
 function ensureManifestSection(manifest, type, folder) {
