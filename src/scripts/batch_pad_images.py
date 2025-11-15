@@ -50,7 +50,7 @@ def process_directory(input_dir: str):
     output_dir = os.path.join(input_dir, "output")
     os.makedirs(output_dir, exist_ok=True)
 
-    patterns = ["*.jpg", "*.jpeg", "*.png", "*.bmp", "*.tiff"]
+    patterns = ["*.jpg", "*.jpeg", "*.png", "*.bmp", "*.tiff", "*.webp"]
     files = []
     for pat in patterns:
         files.extend(glob.glob(os.path.join(input_dir, pat)))
