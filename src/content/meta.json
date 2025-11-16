@@ -70,6 +70,16 @@
     ],
     "events": [
         {
+            "title": "🏒 MHL 30th Anniversary Alumni Game",
+            "short_title": "🏒 MHL 30th Anniversary",
+            "description": "Madison Hockey League's 30th Anniversary celebration and alumni hockey game.",
+            "preview": "MHL30th-20251116-036.webp",
+            "folder": "2025.11.16-mhl-30th-anniversary",
+            "date": "2025-11-16",
+            "location": "Madison, VA",
+            "visible": true
+        },
+        {
             "title": "🌌 November Aurora Borealis",
             "short_title": "🌌 Aurora Borealis",
             "description": "Photos of the Aurora Borealis taken in early November 2025 from Shenandoah National Park, Virginia.",
