@@ -70,6 +70,18 @@
     ],
     "events": [
         {
+            "title": "🏎️ 2026 Roar Before The Rolex 24",
+            "short_title": "🏎️ Roar Before The 24",
+            "description": "Practice and testing for the 2026 Rolex 24 At Daytona.",
+            "preview": "roar-before-24-0116-1712-021.webp",
+            "folder": "2026.01.16-roar-before-rolex-24",
+            "date": {
+                "start": "2026-01-16",
+                "end": "2026-01-18"
+            },            "location": "Daytona, FL",
+            "visible": true
+        },
+        {
             "title": "🏒 MHL 30th Anniversary Alumni Game",
             "short_title": "🏒 MHL 30th Anniversary",
             "description": "Madison Hockey League's 30th Anniversary celebration and alumni hockey game.",
