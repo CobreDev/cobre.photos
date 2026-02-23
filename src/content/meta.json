@@ -70,6 +70,16 @@
     ],
     "events": [
         {
+            "title": "🏒 Madison Wildfire vs Fredericksburg Phantoms",
+            "short_title": "🏒 Wildfire vs Phantoms",
+            "description": "CIHL Middle School Semifinals",
+            "preview": "MHLvsFRED-20260221-015.webp",
+            "folder": "2026.02.21-wildfire-vs-phantoms",
+            "date": "2026-02-21",
+            "location": "Reston, VA",
+            "visible": true
+        },
+        {
             "title": "🏎️ 2026 Roar Before The Rolex 24",
             "short_title": "🏎️ Roar Before The 24",
             "description": "Practice and testing for the 2026 Rolex 24 At Daytona.",
@@ -105,8 +115,8 @@
             "visible": true
         },
         {
-            "title": "🏒 MHL Wildfire vs FCRHL Rec Nets",
-            "short_title": "🏒 MHL vs FCRHL",
+            "title": "🏒 Madison Wildfire vs Fauquier Rec Nets",
+            "short_title": "🏒 Wildfire vs Rec Nets",
             "description": "Warrenton Fall Classic hockey game between the MHL Wildfire and FCRHL Rec Nets on November 2, 2025.",
             "preview": "MHLvsFCRHL-20251108-007.webp",
             "folder": "2025.11.08-warrenton-fall-classic",
