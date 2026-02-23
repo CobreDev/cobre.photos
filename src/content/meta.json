@@ -70,6 +70,16 @@
     ],
     "events": [
         {
+            "title": "🏒 Madison Wildfire vs Fauquier Dragons",
+            "short_title": "🏒 Wildfire vs Dragons",
+            "description": "CIHL Middle School Championship",
+            "preview": "MHLvsFCRHL-20260221-021.webp",
+            "folder": "2026.02.21-wildfire-vs-dragons",
+            "date": "2026-02-21",
+            "location": "Reston, VA",
+            "visible": true
+        },
+        {
             "title": "🏒 Madison Wildfire vs Fredericksburg Phantoms",
             "short_title": "🏒 Wildfire vs Phantoms",
             "description": "CIHL Middle School Semifinals",
