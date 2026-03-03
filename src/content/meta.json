@@ -13,8 +13,6 @@
                 "seymour-johnson-20250503-001.webp",
                 "nas-oceana-20240919-001.webp",
                 "airventure-oshkosh-20250723-004.webp",
-                "cobre.photos-0811-1005.webp",
-                "cobre.photos-0811-1014-4.webp",
                 "mach-loop-20250811-001.webp",
                 "mach-loop-20250811-002.webp",
                 "nas-oceana-20240919-002.webp",
@@ -87,6 +85,19 @@
             "folder": "2026.02.21-wildfire-vs-phantoms",
             "date": "2026-02-21",
             "location": "Reston, VA",
+            "visible": true
+        },
+        {
+            "title": "🏎️ IMSA WeatherTech Rolex 24 at Daytona",
+            "short_title": "🏎️ Rolex 24",
+            "description": "The 2026 running of the IMSA WeatherTech SportsCar Championship Rolex 24 at Daytona.",
+            "preview": "rolex-24-0124-1734-080.webp",
+            "folder": "2026.01.24-rolex-24",
+            "date": {
+                "start": "2026-01-24",
+                "end": "2026-01-25"
+            },
+            "location": "Daytona, FL",
             "visible": true
         },
         {
