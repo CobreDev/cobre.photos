@@ -90,6 +90,16 @@
             "visible": true
         },
         {
+            "title": "🏎️ Historic Sportscar Racing IMSA Classic",
+            "short_title": "🏎️ HSR IMSA Classic",
+            "description": "A throwback event showcasing classic IMSA sports cars at Daytona International Speedway.",
+            "preview": "hsr-imsa-classic-0124-0856-036.webp",
+            "folder": "2026.01.24-hsr-imsa-classic",
+            "date": "2026-01-24",
+            "location": "Daytona, FL",
+            "visible": true
+        },
+        {
             "title": "🏎️ Mazda MX-5 Cup at Daytona",
             "short_title": "🏎️ MX-5 Cup",
             "description": "Mazda MX-5 Cup races at Daytona International Speedway",
