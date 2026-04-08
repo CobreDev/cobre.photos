@@ -1,269 +1,284 @@
 {
-    "portfolio": [
-        {
-            "title": "Aviation Highlights",
-            "description": "Just a few of my best airshow and aviation photos.",
-            "preview": "DSC_2048.webp",
-            "folder": "aviation",
-            "image_order": [
-                "nas-oceana-20240919-003.webp",
-                "seymour-johnson-20250503-002.webp",
-                "airventure-oshkosh-20240722-001.webp",
-                "airventure-oshkosh-20250726-007.webp",
-                "seymour-johnson-20250503-001.webp",
-                "nas-oceana-20240919-001.webp",
-                "airventure-oshkosh-20250723-004.webp",
-                "mach-loop-20250811-001.webp",
-                "mach-loop-20250811-002.webp",
-                "nas-oceana-20240919-002.webp",
-                "airventure-oshkosh-20240727-008.webp",
-                "seymour-johnson-20250504-004.webp",
-                "nas-oceana-20240921-004.webp",
-                "airventure-oshkosh-20240727-006.webp",
-                "seymour-johnson-20250503-003.webp",
-                "airventure-oshkosh-20240724-003.webp",
-                "airventure-oshkosh-20240723-002.webp",
-                "airventure-oshkosh-20240725-004.webp",
-                "airventure-oshkosh-20240726-005.webp",
-                "airventure-oshkosh-20240727-007.webp",
-                "airventure-oshkosh-20250721-001.webp",
-                "airventure-oshkosh-20250726-006.webp",
-                "airventure-oshkosh-20250721-002.webp",
-                "airventure-oshkosh-20250721-003.webp",
-                "airventure-oshkosh-20250726-005.webp",
-                "airventure-oshkosh-20250727-008.webp"
-            ]
-        },
-        {
-            "title": "Sports Highlights",
-            "description": "Some of my favorite sports photos.",
-            "preview": "capitals-20250204-002.webp",
-            "folder": "sports",
-            "image_order": [
-                "MHLvsFCRHL-20251108-003.webp", 
-                "MHLvsFCRHL-20251108-001.webp", 
-                "MHLvsFCRHL-20251108-002.webp",
-                "nationals-20240821-001.webp",
-                "nationals-20240821-002.webp",
-                "capitals-20250204-001.webp",
-                "capitals-20250204-002.webp",
-                "capitals-20250204-003.webp",
-                "capitals-20250204-004.webp",
-                "northridge-disc-golf-20240817-001.webp",
-                "northridge-disc-golf-20240817-002.webp"
-            ]   
-        },
-        {
-            "title": "Nature Highlights",
-            "description": "A handful of beautiful nature photos.",
-            "preview": "seneca-rocks-20240901-003.webp",
-            "folder": "nature"
-        },
-        {
-            "title": "Architecture Highlights",
-            "description": "A collection of neat architecture photos.",
-            "preview": "dc-20240821-001.webp",
-            "folder": "architecture"
-        }
-    ],
-    "events": [
-        {
-            "title": "🏒 Madison Wildfire vs Fauquier Dragons",
-            "short_title": "🏒 Wildfire vs Dragons",
-            "description": "CIHL Middle School Championship",
-            "preview": "MHLvsFCRHL-20260221-031.webp",
-            "folder": "2026.02.21-wildfire-vs-dragons",
-            "date": "2026-02-21",
-            "location": "Reston, VA",
-            "visible": true
-        },
-        {
-            "title": "🏒 Madison Wildfire vs Fredericksburg Phantoms",
-            "short_title": "🏒 Wildfire vs Phantoms",
-            "description": "CIHL Middle School Semifinals",
-            "preview": "MHLvsFRED-20260221-015.webp",
-            "folder": "2026.02.21-wildfire-vs-phantoms",
-            "date": "2026-02-21",
-            "location": "Reston, VA",
-            "visible": true
-        },
-        {
-            "title": "🏎️ IMSA WeatherTech Rolex 24 at Daytona",
-            "short_title": "🏎️ Rolex 24",
-            "description": "The 2026 running of the IMSA WeatherTech SportsCar Championship Rolex 24 at Daytona.",
-            "preview": "rolex-24-0124-1734-080.webp",
-            "folder": "2026.01.24-rolex-24",
-            "date": {
-                "start": "2026-01-24",
-                "end": "2026-01-25"
-            },
-            "location": "Daytona Beach, FL",
-            "visible": true
-        },
-        {
-            "title": "🏎️ Historic Sportscar Racing IMSA Classic",
-            "short_title": "🏎️ HSR IMSA Classic",
-            "description": "A throwback event showcasing classic IMSA sports cars at Daytona International Speedway.",
-            "preview": "hsr-imsa-classic-0124-0856-036.webp",
-            "folder": "2026.01.24-hsr-imsa-classic",
-            "date": "2026-01-24",
-            "location": "Daytona Beach, FL",
-            "visible": true
-        },
-        {
-            "title": "🏎️ Mazda MX-5 Cup at Daytona",
-            "short_title": "🏎️ MX-5 Cup",
-            "description": "Mazda MX-5 Cup races at Daytona International Speedway",
-            "preview": "mx-5-cup-0122-1750-012.webp",
-            "folder": "2026.01.22-mazda-mx-5-cup",
-            "date": {
-                "start": "2026-01-22",
-                "end": "2026-01-23"
-            },            "location": "Daytona Beach, FL",
-            "visible": true
-        },
-        {
-            "title": "🏎️ Roar Before The Rolex 24",
-            "short_title": "🏎️ Roar Before The 24",
-            "description": "Practice and testing for the 2026 Rolex 24 At Daytona.",
-            "preview": "roar-before-24-0116-1712-021.webp",
-            "folder": "2026.01.16-roar-before-rolex-24",
-            "date": {
-                "start": "2026-01-16",
-                "end": "2026-01-18"
-            },            "location": "Daytona Beach, FL",
-            "visible": true
-        },
-        {
-            "title": "🏒 MHL 30th Anniversary Alumni Game",
-            "short_title": "🏒 MHL 30th Anniversary",
-            "description": "Madison Hockey League's 30th Anniversary celebration and alumni hockey game.",
-            "preview": "MHL30th-20251116-036.webp",
-            "folder": "2025.11.16-mhl-30th-anniversary",
-            "date": "2025-11-16",
-            "location": "Madison, VA",
-            "visible": true
-        },
-        {
-            "title": "🌌 November Aurora Borealis",
-            "short_title": "🌌 Aurora Borealis",
-            "description": "Photos of the Aurora Borealis taken in early November 2025 from Shenandoah National Park, Virginia.",
-            "preview": "aurora-20251111-007.webp",
-            "folder": "2025.11.11-aurora-borealis",
-            "date": {
-                "start": "2025-11-11",
-                "end": "2025-11-12"
-            },
-            "location": "Elkton, VA",
-            "visible": true
-        },
-        {
-            "title": "🏒 Madison Wildfire vs Fauquier Rec Nets",
-            "short_title": "🏒 Wildfire vs Rec Nets",
-            "description": "Warrenton Fall Classic hockey game between the MHL Wildfire and FCRHL Rec Nets on November 2, 2025.",
-            "preview": "MHLvsFCRHL-20251108-007.webp",
-            "folder": "2025.11.08-warrenton-fall-classic",
-            "date": "2025-11-08",
-            "location": "Warrenton, VA",
-            "visible": true
-        },
-        {
-            "title": "✈️ Wings Over North Georgia",
-            "short_title": "✈️ Wings Over North GA",
-            "description": "Rome, Georgia's Wings Over North Georgia Airshow 2025.",
-            "preview": "wong-021-20251017.webp",
-            "folder": "2025.10.17-wings-over-north-georgia",
-            "date": {
-                "start": "2025-10-17",
-                "end": "2025-10-19"
-            },
-            "location": "Rome, GA",
-            "visible": true
-        },
-        {
-            "title": "🎈 Albuquerque International Balloon Fiesta",
-            "short_title": "🎈 Balloon Fiesta",
-            "description": "Albuquerque International Balloon Fiesta 2025 in Albuquerque, New Mexico.",
-            "preview": "abq-balloon-fiesta-20251006-092.webp",
-            "folder": "2025.10.04-abq-balloon-fiesta",
-            "date": {
-                "start": "2025-10-04",
-                "end": "2025-10-10"
-            },
-            "location": "Albuquerque, NM",
-            "visible": true
-        },
-        {
-            "title": "✈️ NAS Oceana Airshow",
-            "short_title": "✈️ NAS Oceana",
-            "description": "Shots from NAS Oceana's 2025 Airshow in Virginia Beach, VA.",
-            "preview": "cobre.photos-20250921-0140.webp",
-            "folder": "2025.09.18-nas-oceana",
-            "date": {
-                "start": "2025-09-18",
-                "end": "2025-09-21"
-            },
-            "location": "NAS Oceana, VA",
-            "visible": true
-        },
-        {
-            "title": "✈️ Mach Loop Visit",
-            "short_title": "✈️ Mach Loop",
-            "description": "Photos from my visit to Wales' Mach Loop in August 2025.",
-            "preview": "cobre.photos-0811-1014-4.webp",
-            "folder": "2025.08.11-mach-loop",
-            "date": {
-                "start": "2025-08-11",
-                "end": "2025-08-12"
-            },
-            "location": "Machynlleth, Wales",
-            "visible": true
-        },
-        {
-            "title": "✈️ AirVenture Oshkosh",
-            "short_title": "✈️ AirVenture Oshkosh",
-            "description": "Photos from EAA's AirVenture Oshkosh 2025 in Oshkosh, Wisconsin.",
-            "preview": "DSC_6243.webp",
-            "folder": "2025.07.21-airventure-oshkosh",
-            "date": {
-                "start": "2025-07-21",
-                "end": "2025-07-27"
-            },
-            "location": "Oshkosh, WI",
-            "visible": true
-        },
-        {
-            "title": "✈️ Wings over Wayne Airshow",
-            "short_title": "✈️ Wings over Wayne",
-            "folder": "2025.05.03-seymour-johnson",
-            "date": {
-                "start": "2025-05-03",
-                "end": "2025-05-04"
-            },
-            "location": "Seymour Johnson AFB, NC",
-            "visible": true
-        },
-        {
-            "title": "✈️ Music City STOL",
-            "short_title": "✈️ Music City STOL",
-            "folder": "2024.10.11-music-city-stol",
-            "date": {
-                "start": "2024-10-11",
-                "end": "2024-10-12"
-            },
-            "location": "Nashville, TN",
-            "visible": true
-        },
-        {
-            "title": "✈️ NAS Oceana Airshow",
-            "short_title": "✈️ NAS Oceana Airshow",
-            "folder": "2024.09.21-nas-oceana",
-            "date": {
-                "start": "2024-09-21",
-                "end": "2024-09-22"
-            },
-            "location": "NAS Oceana, VA",
-            "visible": true
-        }
-    ]
+  "portfolio": [
+    {
+      "title": "Aviation Highlights",
+      "description": "Just a few of my best airshow and aviation photos.",
+      "preview": "DSC_2048.webp",
+      "folder": "aviation",
+      "image_order": [
+        "nas-oceana-20240919-003.webp",
+        "seymour-johnson-20250503-002.webp",
+        "airventure-oshkosh-20240722-001.webp",
+        "airventure-oshkosh-20250726-007.webp",
+        "seymour-johnson-20250503-001.webp",
+        "nas-oceana-20240919-001.webp",
+        "airventure-oshkosh-20250723-004.webp",
+        "mach-loop-20250811-001.webp",
+        "mach-loop-20250811-002.webp",
+        "nas-oceana-20240919-002.webp",
+        "airventure-oshkosh-20240727-008.webp",
+        "seymour-johnson-20250504-004.webp",
+        "nas-oceana-20240921-004.webp",
+        "airventure-oshkosh-20240727-006.webp",
+        "seymour-johnson-20250503-003.webp",
+        "airventure-oshkosh-20240724-003.webp",
+        "airventure-oshkosh-20240723-002.webp",
+        "airventure-oshkosh-20240725-004.webp",
+        "airventure-oshkosh-20240726-005.webp",
+        "airventure-oshkosh-20240727-007.webp",
+        "airventure-oshkosh-20250721-001.webp",
+        "airventure-oshkosh-20250726-006.webp",
+        "airventure-oshkosh-20250721-002.webp",
+        "airventure-oshkosh-20250721-003.webp",
+        "airventure-oshkosh-20250726-005.webp",
+        "airventure-oshkosh-20250727-008.webp"
+      ]
+    },
+    {
+      "title": "Sports Highlights",
+      "description": "Some of my favorite sports photos.",
+      "preview": "capitals-20250204-002.webp",
+      "folder": "sports",
+      "image_order": [
+        "MHLvsFCRHL-20251108-003.webp",
+        "MHLvsFCRHL-20251108-001.webp",
+        "MHLvsFCRHL-20251108-002.webp",
+        "nationals-20240821-001.webp",
+        "nationals-20240821-002.webp",
+        "capitals-20250204-001.webp",
+        "capitals-20250204-002.webp",
+        "capitals-20250204-003.webp",
+        "capitals-20250204-004.webp",
+        "northridge-disc-golf-20240817-001.webp",
+        "northridge-disc-golf-20240817-002.webp"
+      ]
+    },
+    {
+      "title": "Nature Highlights",
+      "description": "A handful of beautiful nature photos.",
+      "preview": "seneca-rocks-20240901-003.webp",
+      "folder": "nature"
+    },
+    {
+      "title": "Architecture Highlights",
+      "description": "A collection of neat architecture photos.",
+      "preview": "dc-20240821-001.webp",
+      "folder": "architecture"
+    }
+  ],
+  "events": [
+    {
+      "title": "✈️ Wings Over North Georgia",
+      "short_title": "✈️ Wings Over North GA",
+      "description": "Rome, Georgia's Wings Over North Georgia Airshow 2026.",
+      "preview": "WONG-0403-2047-035.webp",
+      "folder": "2026.04.03-wings-over-north-georgia",
+      "date": {
+        "start": "2026-04-03",
+        "end": "2026-04-04"
+      },
+      "location": "Rome, GA",
+      "visible": true
+    },
+    {
+      "title": "🏒 Madison Wildfire vs Fauquier Dragons",
+      "short_title": "🏒 Wildfire vs Dragons",
+      "description": "CIHL Middle School Championship",
+      "preview": "MHLvsFCRHL-20260221-031.webp",
+      "folder": "2026.02.21-wildfire-vs-dragons",
+      "date": "2026-02-21",
+      "location": "Reston, VA",
+      "visible": true
+    },
+    {
+      "title": "🏒 Madison Wildfire vs Fredericksburg Phantoms",
+      "short_title": "🏒 Wildfire vs Phantoms",
+      "description": "CIHL Middle School Semifinals",
+      "preview": "MHLvsFRED-20260221-015.webp",
+      "folder": "2026.02.21-wildfire-vs-phantoms",
+      "date": "2026-02-21",
+      "location": "Reston, VA",
+      "visible": true
+    },
+    {
+      "title": "🏎️ IMSA WeatherTech Rolex 24 at Daytona",
+      "short_title": "🏎️ Rolex 24",
+      "description": "The 2026 running of the IMSA WeatherTech SportsCar Championship Rolex 24 at Daytona.",
+      "preview": "rolex-24-0124-1734-080.webp",
+      "folder": "2026.01.24-rolex-24",
+      "date": {
+        "start": "2026-01-24",
+        "end": "2026-01-25"
+      },
+      "location": "Daytona Beach, FL",
+      "visible": true
+    },
+    {
+      "title": "🏎️ Historic Sportscar Racing IMSA Classic",
+      "short_title": "🏎️ HSR IMSA Classic",
+      "description": "A throwback event showcasing classic IMSA sports cars at Daytona International Speedway.",
+      "preview": "hsr-imsa-classic-0124-0856-036.webp",
+      "folder": "2026.01.24-hsr-imsa-classic",
+      "date": "2026-01-24",
+      "location": "Daytona Beach, FL",
+      "visible": true
+    },
+    {
+      "title": "🏎️ Mazda MX-5 Cup at Daytona",
+      "short_title": "🏎️ MX-5 Cup",
+      "description": "Mazda MX-5 Cup races at Daytona International Speedway",
+      "preview": "mx-5-cup-0122-1750-012.webp",
+      "folder": "2026.01.22-mazda-mx-5-cup",
+      "date": {
+        "start": "2026-01-22",
+        "end": "2026-01-23"
+      },
+      "location": "Daytona Beach, FL",
+      "visible": true
+    },
+    {
+      "title": "🏎️ Roar Before The Rolex 24",
+      "short_title": "🏎️ Roar Before The 24",
+      "description": "Practice and testing for the 2026 Rolex 24 At Daytona.",
+      "preview": "roar-before-24-0116-1712-021.webp",
+      "folder": "2026.01.16-roar-before-rolex-24",
+      "date": {
+        "start": "2026-01-16",
+        "end": "2026-01-18"
+      },
+      "location": "Daytona Beach, FL",
+      "visible": true
+    },
+    {
+      "title": "🏒 MHL 30th Anniversary Alumni Game",
+      "short_title": "🏒 MHL 30th Anniversary",
+      "description": "Madison Hockey League's 30th Anniversary celebration and alumni hockey game.",
+      "preview": "MHL30th-20251116-036.webp",
+      "folder": "2025.11.16-mhl-30th-anniversary",
+      "date": "2025-11-16",
+      "location": "Madison, VA",
+      "visible": true
+    },
+    {
+      "title": "🌌 November Aurora Borealis",
+      "short_title": "🌌 Aurora Borealis",
+      "description": "Photos of the Aurora Borealis taken in early November 2025 from Shenandoah National Park, Virginia.",
+      "preview": "aurora-20251111-007.webp",
+      "folder": "2025.11.11-aurora-borealis",
+      "date": {
+        "start": "2025-11-11",
+        "end": "2025-11-12"
+      },
+      "location": "Elkton, VA",
+      "visible": true
+    },
+    {
+      "title": "🏒 Madison Wildfire vs Fauquier Rec Nets",
+      "short_title": "🏒 Wildfire vs Rec Nets",
+      "description": "Warrenton Fall Classic hockey game between the MHL Wildfire and FCRHL Rec Nets on November 2, 2025.",
+      "preview": "MHLvsFCRHL-20251108-007.webp",
+      "folder": "2025.11.08-warrenton-fall-classic",
+      "date": "2025-11-08",
+      "location": "Warrenton, VA",
+      "visible": true
+    },
+    {
+      "title": "✈️ Wings Over North Georgia",
+      "short_title": "✈️ Wings Over North GA",
+      "description": "Rome, Georgia's Wings Over North Georgia Airshow 2025.",
+      "preview": "wong-021-20251017.webp",
+      "folder": "2025.10.17-wings-over-north-georgia",
+      "date": {
+        "start": "2025-10-17",
+        "end": "2025-10-19"
+      },
+      "location": "Rome, GA",
+      "visible": true
+    },
+    {
+      "title": "🎈 Albuquerque International Balloon Fiesta",
+      "short_title": "🎈 Balloon Fiesta",
+      "description": "Albuquerque International Balloon Fiesta 2025 in Albuquerque, New Mexico.",
+      "preview": "abq-balloon-fiesta-20251006-092.webp",
+      "folder": "2025.10.04-abq-balloon-fiesta",
+      "date": {
+        "start": "2025-10-04",
+        "end": "2025-10-10"
+      },
+      "location": "Albuquerque, NM",
+      "visible": true
+    },
+    {
+      "title": "✈️ NAS Oceana Airshow",
+      "short_title": "✈️ NAS Oceana",
+      "description": "Shots from NAS Oceana's 2025 Airshow in Virginia Beach, VA.",
+      "preview": "cobre.photos-20250921-0140.webp",
+      "folder": "2025.09.18-nas-oceana",
+      "date": {
+        "start": "2025-09-18",
+        "end": "2025-09-21"
+      },
+      "location": "NAS Oceana, VA",
+      "visible": true
+    },
+    {
+      "title": "✈️ Mach Loop Visit",
+      "short_title": "✈️ Mach Loop",
+      "description": "Photos from my visit to Wales' Mach Loop in August 2025.",
+      "preview": "cobre.photos-0811-1014-4.webp",
+      "folder": "2025.08.11-mach-loop",
+      "date": {
+        "start": "2025-08-11",
+        "end": "2025-08-12"
+      },
+      "location": "Machynlleth, Wales",
+      "visible": true
+    },
+    {
+      "title": "✈️ AirVenture Oshkosh",
+      "short_title": "✈️ AirVenture Oshkosh",
+      "description": "Photos from EAA's AirVenture Oshkosh 2025 in Oshkosh, Wisconsin.",
+      "preview": "DSC_6243.webp",
+      "folder": "2025.07.21-airventure-oshkosh",
+      "date": {
+        "start": "2025-07-21",
+        "end": "2025-07-27"
+      },
+      "location": "Oshkosh, WI",
+      "visible": true
+    },
+    {
+      "title": "✈️ Wings over Wayne Airshow",
+      "short_title": "✈️ Wings over Wayne",
+      "folder": "2025.05.03-seymour-johnson",
+      "date": {
+        "start": "2025-05-03",
+        "end": "2025-05-04"
+      },
+      "location": "Seymour Johnson AFB, NC",
+      "visible": true
+    },
+    {
+      "title": "✈️ Music City STOL",
+      "short_title": "✈️ Music City STOL",
+      "folder": "2024.10.11-music-city-stol",
+      "date": {
+        "start": "2024-10-11",
+        "end": "2024-10-12"
+      },
+      "location": "Nashville, TN",
+      "visible": true
+    },
+    {
+      "title": "✈️ NAS Oceana Airshow",
+      "short_title": "✈️ NAS Oceana Airshow",
+      "folder": "2024.09.21-nas-oceana",
+      "date": {
+        "start": "2024-09-21",
+        "end": "2024-09-22"
+      },
+      "location": "NAS Oceana, VA",
+      "visible": true
+    }
+  ]
 }
