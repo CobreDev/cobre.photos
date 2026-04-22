@@ -1,62 +1,55 @@
 {
   "portfolio": [
     {
-      "title": "Aviation Highlights",
-      "description": "Just a few of my best airshow and aviation photos.",
-      "preview": "DSC_2048.webp",
-      "folder": "aviation",
+      "title": "Concert Highlights",
+      "description": "Photos from various concerts.",
+      "preview": "cobre.photos-LakeStreetDive-0419-2133.webp",
+      "folder": "concerts",
       "image_order": [
-        "nas-oceana-20240919-003.webp",
-        "seymour-johnson-20250503-002.webp",
-        "airventure-oshkosh-20240722-001.webp",
-        "airventure-oshkosh-20250726-007.webp",
-        "seymour-johnson-20250503-001.webp",
-        "nas-oceana-20240919-001.webp",
-        "airventure-oshkosh-20250723-004.webp",
-        "mach-loop-20250811-001.webp",
-        "mach-loop-20250811-002.webp",
-        "nas-oceana-20240919-002.webp",
-        "airventure-oshkosh-20240727-008.webp",
-        "seymour-johnson-20250504-004.webp",
-        "nas-oceana-20240921-004.webp",
-        "airventure-oshkosh-20240727-006.webp",
-        "seymour-johnson-20250503-003.webp",
-        "airventure-oshkosh-20240724-003.webp",
-        "airventure-oshkosh-20240723-002.webp",
-        "airventure-oshkosh-20240725-004.webp",
-        "airventure-oshkosh-20240726-005.webp",
-        "airventure-oshkosh-20240727-007.webp",
-        "airventure-oshkosh-20250721-001.webp",
-        "airventure-oshkosh-20250726-006.webp",
-        "airventure-oshkosh-20250721-002.webp",
-        "airventure-oshkosh-20250721-003.webp",
-        "airventure-oshkosh-20250726-005.webp",
-        "airventure-oshkosh-20250727-008.webp"
+        "cobre.photos-LakeStreetDive-0419-2133.webp",
+        "cobre.photos-LakeStreetDive-0419-2119.webp",
+        "cobre.photos-LakeStreetDive-0419-2020.webp",
+        "cobre.photos-LakeStreetDive-0419-2034.webp",
+        "cobre.photos-LakeStreetDive-0419-2132.webp",
+        "cobre.photos-CARRTOONS-0419-1915.webp",
+        "cobre.photos-CARRTOONS-0419-1925.webp"
       ]
     },
     {
       "title": "Sports Highlights",
       "description": "Some of my favorite sports photos.",
-      "preview": "capitals-20250204-002.webp",
+      "preview": "cobre.photos-Woodberry-BengalLAX-0417-1718.webp",
       "folder": "sports",
       "image_order": [
-        "MHLvsFCRHL-20251108-003.webp",
         "MHLvsFCRHL-20251108-001.webp",
         "MHLvsFCRHL-20251108-002.webp",
-        "nationals-20240821-001.webp",
-        "nationals-20240821-002.webp",
-        "capitals-20250204-001.webp",
+        "Woodberry-Collegiate-Bengal-LAX-20260417-1718-7251.webp",
+        "Woodberry-Collegiate-Bengal-LAX-20260417-1737-8091.webp",
+        "Woodberry-FCS-JV-LAX-20260321-0321-1412.webp",
+        "Woodberry-Potomac-JV Tennis-20260414-1632-4569.webp",
+        "Woodberry-StCath-JVGolf-20260324-083-9814.webp",
+        "Woodberry-StCath-JVGolf-20260324-097-9937.webp",
+        "Woodberry-Track-20260417-1556-6290.webp",
         "capitals-20250204-002.webp",
-        "capitals-20250204-003.webp",
-        "capitals-20250204-004.webp",
-        "northridge-disc-golf-20240817-001.webp",
-        "northridge-disc-golf-20240817-002.webp"
+        "capitals-20250204-004.webp"
       ]
+    },
+    {
+      "title": "Aviation Highlights",
+      "description": "Just a few of my best airshow and aviation photos.",
+      "preview": "cobre.photos-Oceana-0919-1242.webp",
+      "folder": "aviation"
+    },
+    {
+      "title": "Motorsports Highlights",
+      "description": "Racing and other various motorsports photos.",
+      "preview": "cobre.photos-Rolex24-0124-2148-2.webp",
+      "folder": "motorsports"
     },
     {
       "title": "Nature Highlights",
       "description": "A handful of beautiful nature photos.",
-      "preview": "seneca-rocks-20240901-003.webp",
+      "preview": "cobre.photos-winter-1205-1130.webp",
       "folder": "nature"
     },
     {
