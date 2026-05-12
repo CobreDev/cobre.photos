@@ -1,22 +1,7 @@
 {
   "portfolio": [
     {
-      "title": "Concert Highlights",
-      "description": "Photos from various concerts.",
-      "preview": "cobre.photos-LakeStreetDive-0419-2133.webp",
-      "folder": "concerts",
-      "image_order": [
-        "cobre.photos-LakeStreetDive-0419-2133.webp",
-        "cobre.photos-LakeStreetDive-0419-2119.webp",
-        "cobre.photos-LakeStreetDive-0419-2020.webp",
-        "cobre.photos-LakeStreetDive-0419-2034.webp",
-        "cobre.photos-LakeStreetDive-0419-2132.webp",
-        "cobre.photos-CARRTOONS-0419-1915.webp",
-        "cobre.photos-CARRTOONS-0419-1925.webp"
-      ]
-    },
-    {
-      "title": "Sports Highlights",
+      "title": "Sports",
       "description": "Some of my favorite sports photos.",
       "preview": "cobre.photos-Woodberry-0505-1647.webp",
       "folder": "sports",
@@ -38,25 +23,40 @@
       ]
     },
     {
-      "title": "Aviation Highlights",
-      "description": "Just a few of my best airshow and aviation photos.",
-      "preview": "cobre.photos-Oceana-0919-1242.webp",
-      "folder": "aviation"
+      "title": "Concerts",
+      "description": "Photos from various concerts.",
+      "preview": "cobre.photos-LakeStreetDive-0419-2133.webp",
+      "folder": "concerts",
+      "image_order": [
+        "cobre.photos-LakeStreetDive-0419-2133.webp",
+        "cobre.photos-LakeStreetDive-0419-2119.webp",
+        "cobre.photos-LakeStreetDive-0419-2020.webp",
+        "cobre.photos-LakeStreetDive-0419-2034.webp",
+        "cobre.photos-LakeStreetDive-0419-2132.webp",
+        "cobre.photos-CARRTOONS-0419-1915.webp",
+        "cobre.photos-CARRTOONS-0419-1925.webp"
+      ]
     },
     {
-      "title": "Motorsports Highlights",
+      "title": "Motorsports",
       "description": "Racing and other various motorsports photos.",
       "preview": "cobre.photos-Rolex24-0124-2148-2.webp",
       "folder": "motorsports"
     },
     {
-      "title": "Nature Highlights",
+      "title": "Aviation",
+      "description": "Just a few of my best airshow and aviation photos.",
+      "preview": "cobre.photos-Oceana-0919-1242.webp",
+      "folder": "aviation"
+    },
+    {
+      "title": "Nature",
       "description": "A handful of beautiful nature photos.",
       "preview": "cobre.photos-winter-1205-1130.webp",
       "folder": "nature"
     },
     {
-      "title": "Architecture Highlights",
+      "title": "Architecture",
       "description": "A collection of neat architecture photos.",
       "preview": "dc-20240821-001.webp",
       "folder": "architecture"
