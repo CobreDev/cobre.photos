@@ -64,6 +64,16 @@
   ],
   "events": [
     {
+      "title": "✈️ Charleston Airshow",
+      "short_title": "✈️ Charleston Airshow",
+      "description": "An airshow over the Charleston Harbor",
+      "preview": "cobre.photos-Charleston-0501-1407.webp",
+      "folder": "2026.05.01-charleston-airshow",
+      "date": "2026-05-01",
+      "location": "Charleston, SC",
+      "visible": true
+    },
+    {
       "title": "🎤 Lake Street Dive Concert (with CARRTOONS)",
       "short_title": "🎤 Lake Street Dive Concert",
       "description": "Lake Street Dive in concert featuring CARRTOONS.",
