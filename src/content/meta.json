@@ -64,6 +64,19 @@
   ],
   "events": [
     {
+      "title": "✈️ NAS Oceana Airshow",
+      "short_title": "✈️ NAS Oceana",
+      "description": "Photos from NAS Oceana's 2026 Airshow in Virginia Beach, VA.",
+      "preview": "cobre.photos-oceana-0920-1102-2.webp",
+      "folder": "2026.09.19-nas-oceana",
+      "date": {
+        "start": "2025-09-19",
+        "end": "2025-09-20"
+      },
+      "location": "NAS Oceana, VA",
+      "visible": true
+    },
+    {
       "title": "✈️ AirVenture Oshkosh",
       "short_title": "✈️ AirVenture Oshkosh",
       "description": "Photos from EAA's AirVenture Oshkosh 2026 in Oshkosh, Wisconsin.",
