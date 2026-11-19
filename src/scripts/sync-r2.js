@@ -6,6 +6,15 @@ const {
     ListObjectsV2Command,
     PutObjectCommand
 } = require("@aws-sdk/client-s3");
+const {
+    ledgerKey,
+    extractSourceMetadata,
+    buildLedgerEntry,
+    loadLedger,
+    saveLedger,
+    describeWeakEntry,
+    pruneLedgerSafely
+} = require("./lib/photo-sources");
 
 const CONTENT_ROOT = path.join(__dirname, "..", "content");
 const MANIFEST_PATH = path.join(CONTENT_ROOT, "gallery-manifest.json");
@@ -40,7 +49,8 @@ function parseArgs() {
     const defaultDir = process.env.R2_UPLOADS_DIR || "uploads";
     const defaults = {
         dir: defaultDir,
-        dryRun: false
+        dryRun: false,
+        forcePrune: false
     };
 
     const args = process.argv.slice(2);
@@ -63,6 +73,9 @@ function parseArgs() {
                 break;
             case "--dry-run":
                 parsed.dryRun = true;
+                break;
+            case "--force-prune":
+                parsed.forcePrune = true;
                 break;
             case "--help":
             case "-h":
@@ -95,6 +108,7 @@ Options:
   --type, -t      Limit sync to a single type (events | portfolio)
   --folder, -f    Limit sync to a specific gallery folder (requires --type)
   --dry-run       Show the operations without uploading or writing files
+  --force-prune   Prune the source ledger even if that would remove more than half of it
   --help, -h      Show this help message
 `);
 }
@@ -121,23 +135,29 @@ function loadConfig() {
     };
 }
 
+// Returns { manifest, loaded }. `loaded` is false when we had to fall back to a blank
+// manifest, so callers know not to treat it as the real list of photos.
 function loadManifest() {
     const emptyManifest = { portfolio: {}, events: {} };
     if (!fs.existsSync(MANIFEST_PATH)) {
-        return emptyManifest;
+        return { manifest: emptyManifest, loaded: false };
     }
 
     try {
         const raw = fs.readFileSync(MANIFEST_PATH, "utf-8").trim();
         if (!raw) {
             console.warn("[sync-r2] Manifest is empty; starting from a blank manifest.");
-            return emptyManifest;
+            return { manifest: emptyManifest, loaded: false };
         }
-        return JSON.parse(raw);
+        const parsed = JSON.parse(raw);
+        if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+            throw new Error("expected a JSON object");
+        }
+        return { manifest: parsed, loaded: true };
     } catch (err) {
         console.warn(`[sync-r2] Failed to parse manifest at ${MANIFEST_PATH}: ${err.message}`);
         console.warn("[sync-r2] Continuing with a blank manifest instead.");
-        return emptyManifest;
+        return { manifest: emptyManifest, loaded: false };
     }
 }
 
@@ -250,11 +270,11 @@ function sortManifestSection(section) {
     section.sort((a, b) => a.filename.localeCompare(b.filename, undefined, { numeric: true }));
 }
 
-async function processGallery(client, config, manifest, type, folder, directory, options, remoteCache) {
+async function processGallery(client, config, manifest, ledger, type, folder, directory, options, remoteCache) {
     const files = collectLocalImages(directory);
     if (files.length === 0) {
         console.log(`[skip] No source images found in ${directory}`);
-        return { uploaded: 0, previews: 0, manifestUpdates: 0 };
+        return { uploaded: 0, previews: 0, manifestUpdates: 0, sourcesRecorded: 0, weakSources: [] };
     }
 
     const prefix = formatPrefix(type, folder);
@@ -269,11 +289,31 @@ async function processGallery(client, config, manifest, type, folder, directory,
     let previews = 0;
     let manifestUpdates = 0;
     let manifestDirty = false;
+    let sourcesRecorded = 0;
+    const weakSources = [];
 
     for (const filename of files) {
         const filePath = path.join(directory, filename);
         const baseName = getBaseName(filename);
         const targetFilename = ensureWebpFilename(filename);
+
+        // Record where the photo came from before anything else, so files that are
+        // already synced get a ledger entry too.
+        const sourceKey = ledgerKey(type, folder, filename);
+        if (!ledger[sourceKey]) {
+            try {
+                const metadata = await extractSourceMetadata(filePath);
+                const entry = buildLedgerEntry(metadata, filename);
+                ledger[sourceKey] = entry;
+                sourcesRecorded += 1;
+                const weakness = describeWeakEntry(entry);
+                if (weakness) {
+                    weakSources.push({ key: sourceKey, reason: weakness });
+                }
+            } catch (err) {
+                console.warn(`[warn] Could not read metadata from ${filePath}: ${err.message}`);
+            }
+        }
         const originalKey = `${prefix}${targetFilename}`;
         const previewFilename = `${baseName}_preview.webp`;
         const previewKey = `${prefix}${previewFilename}`;
@@ -358,14 +398,15 @@ async function processGallery(client, config, manifest, type, folder, directory,
         sortManifestSection(manifestSection);
     }
 
-    return { uploaded, previews, manifestUpdates, manifestDirty };
+    return { uploaded, previews, manifestUpdates, manifestDirty, sourcesRecorded, weakSources };
 }
 
 async function main() {
     const options = parseArgs();
     const config = loadConfig();
     const stagingRoot = path.resolve(process.cwd(), options.dir);
-    const manifest = loadManifest();
+    const { manifest, loaded: manifestLoaded } = loadManifest();
+    const ledger = loadLedger();
 
     const client = new S3Client({
         region: "auto",
@@ -381,7 +422,8 @@ async function main() {
     }
 
     const typesToProcess = options.type ? [options.type] : ["portfolio", "events"];
-    const summary = { uploaded: 0, previews: 0, manifestUpdates: 0 };
+    const summary = { uploaded: 0, previews: 0, manifestUpdates: 0, sourcesRecorded: 0 };
+    const weakSources = [];
     let manifestChanged = false;
     const remoteCache = new Map();
 
@@ -413,6 +455,7 @@ async function main() {
                 client,
                 config,
                 manifest,
+                ledger,
                 type,
                 folder,
                 galleryDir,
@@ -423,21 +466,52 @@ async function main() {
             summary.uploaded += result.uploaded;
             summary.previews += result.previews;
             summary.manifestUpdates += result.manifestUpdates;
+            summary.sourcesRecorded += result.sourcesRecorded;
+            weakSources.push(...result.weakSources);
             manifestChanged = manifestChanged || result.manifestDirty;
         }
     }
+
+    // Prune against the full manifest (never just the galleries touched by --type/--folder),
+    // after it has been updated and before it is written.
+    const pruned = pruneLedgerSafely(ledger, manifest, {
+        manifestLoaded,
+        dryRun: options.dryRun,
+        force: options.forcePrune,
+        tag: "sync-r2"
+    });
 
     if (!options.dryRun && manifestChanged) {
         fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + "\n");
     }
 
+    const ledgerChanged = summary.sourcesRecorded > 0 || pruned.length > 0;
+    if (!options.dryRun && ledgerChanged) {
+        saveLedger(ledger);
+    }
+
     console.log("\nDone.");
     console.log(
-        `Uploaded originals: ${summary.uploaded}\nGenerated previews: ${summary.previews}\nManifest entries added: ${summary.manifestUpdates}`
+        `Uploaded originals: ${summary.uploaded}\nGenerated previews: ${summary.previews}\nManifest entries added: ${summary.manifestUpdates}\nSources recorded: ${summary.sourcesRecorded}${options.dryRun ? " (dry run, not saved)" : ""}`
     );
 
+    if (pruned.length > 0) {
+        console.log(`Ledger entries ${options.dryRun ? "that would be removed" : "removed"}: ${pruned.length}`);
+    }
+
+    if (weakSources.length > 0) {
+        console.log(`\n${weakSources.length} file(s) are missing Lightroom metadata:`);
+        for (const { key, reason } of weakSources) {
+            console.log(`  ${key} - ${reason}`);
+        }
+        console.log(
+            "Re-export these from Lightroom using Metadata -> Include: All Metadata, then run\n" +
+                "  npm run sources:backfill -- --overwrite --dir <folder with the new exports>"
+        );
+    }
+
     if (options.dryRun) {
-        console.log("No files were uploaded and the manifest was not written because --dry-run was used.");
+        console.log("No files were uploaded and the manifest and source ledger were not written because --dry-run was used.");
     } else if (manifestChanged) {
         console.log(`Manifest written to ${MANIFEST_PATH}`);
     } else {

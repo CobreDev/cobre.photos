@@ -11,6 +11,8 @@
     "build:11ty": "eleventy",
     "build:css": "tailwindcss -i src/assets/css/style.css -o _site/assets/css/style.css --minify",
     "sync:r2": "node src/scripts/sync-r2.js",
+    "sources:backfill": "node src/scripts/backfill-sources.js",
+    "sources:report": "node src/scripts/backfill-sources.js --report",
     "build:manifest": "node src/scripts/build-gallery-manifest.js",
     "previews:local": "node src/scripts/generate-local-previews.js"
   },
@@ -24,6 +26,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.609.0",
+    "exifr": "^7.1.3",
     "luxon": "^3.7.1",
     "sharp": "^0.34.3",
     "tailwindcss": "^3.4.17"
